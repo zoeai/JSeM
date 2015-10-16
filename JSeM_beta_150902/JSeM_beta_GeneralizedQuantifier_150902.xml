@@ -235,12 +235,12 @@
     <link resource="fracas" link_id="001" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
-	社員が誰か移動を希望している。
+	社員が誰か異動を希望している。
 	</script>
     </p>
     <h>
       <script>
-	移動を希望している社員がいる。
+	異動を希望している社員がいる。
 	</script>
     </h>
   </problem>
@@ -8165,7 +8165,7 @@
     <note> note in the original FraCaS: Yes, if both commissioners are female; otherwise there are more than two commissioners.</note>
     <note>AK: The answer is "yes" if there is only two commissioners and both are female, otherwise the answer is undefined.</note>
   </problem>
-  <problem jsem_id="362" answer="" language="ja" phenomena="Generalized Quantifier, monotonicity (downwards on first argument), negation" inference_type="entailment">
+  <problem jsem_id="362" answer="undef" language="ja" phenomena="Generalized Quantifier, monotonicity (downwards on first argument), negation" inference_type="entailment">
     <link resource="fracas" link_id="078" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -8187,7 +8187,7 @@
     <note>AK: The answer is "no" if there is only two commissioners and both are female, otherwise the answer is undefined.</note>
     <note>AK: There is no nominal expression corresponds to "neither N" in Japanese. The translation of P1 above has the same meaning as original.</note>
       </problem>
-  <problem jsem_id="363" answer="" language="ja" phenomena="Generalized Quantifier, monotonicity (downwards on first argument), negation" inference_type="entailment">
+  <problem jsem_id="363" answer="undef" language="ja" phenomena="Generalized Quantifier, monotonicity (downwards on first argument), negation" inference_type="entailment">
     <link resource="fracas" link_id="078" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -8209,7 +8209,7 @@
     <note>AK: The answer is "no" if there is only two commissioners and both are female, otherwise the answer is undefined.</note>
     <note>AK: There is no nominal expression corresponds to "neither N" in Japanese. The translation of P1 above has the same meaning as original.</note>
   </problem>
-  <problem jsem_id="364" answer="" language="ja" phenomena="Generalized Quantifier, monotonicity (downwards on first argument), negation" inference_type="entailment">
+  <problem jsem_id="364" answer="undef" language="ja" phenomena="Generalized Quantifier, monotonicity (downwards on first argument), negation" inference_type="entailment">
     <link resource="fracas" link_id="078" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>

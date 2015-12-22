@@ -50,7 +50,7 @@
     jsem_id="731"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -no (complementizer)"
+    phenomena="Attitudes, factive"
     inference_type="presupposition">
     <link resource="fracas" link_id="334" translation="yes"
        same_phenomena="unknown"></link>
@@ -79,7 +79,7 @@
     inference_type="presupposition">
     <p idx="1">
       <script>
-	スミスはITELが1992年に契約を結んだことを知らなかった。
+	スミスはITELが1992年に契約を結んだのを知らなかった。
       </script>
       </p><h>
       <script>
@@ -89,19 +89,14 @@
   </problem>
   <problem
     jsem_id="733"
-      answer="yes"
+      answer="unknown"
       language="ja"
-      phenomena="Attitudes, factive, -no (complementizer)"
-      inference_type="presupposition">
-    <link resource="fracas" link_id="334" translation="yes"
-	  same_phenomena="unknown"></link>
+      phenomena="Attitudes, factive"
+      inference_type="entailment">
     <p idx="1">
       <script>
-	スミスはITELが1992年に契約を結んだのを知っていた。
+	スミスはITELが1992年に契約を結んだかどうかを知っていた。
       </script>
-      <english>
-	Smith knew that ITEL had won the contract in 1992.
-      </english>
     </p>
     <h>
       <script>
@@ -147,7 +142,7 @@
     jsem_id="736"
       answer="yes"
       language="ja"
-      phenomena="Attitudes, factive, -no (complementizer)"
+      phenomena="Attitudes, factive, -toiuno (complementizer)"
       inference_type="presupposition">
     <p idx="1">
       <script>
@@ -180,7 +175,8 @@
     jsem_id="738"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive">
+    phenomena="Attitudes, non-factive"
+    inference_type="entailment">
   <link resource="fracas" link_id="335" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -204,7 +200,8 @@
     jsem_id="739"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -toiukoto (complementizer)">
+    phenomena="Attitudes, -toiukoto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
        太郎は花子が犯人であるということを否定した。
@@ -221,7 +218,8 @@
     jsem_id="740"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive">
+    phenomena="Attitudes, non-factive"
+    inference_type="entailment">
   <p idx="1">
     <script>
        太郎は花子が一人っ子だと思った。
@@ -321,7 +319,8 @@
     jsem_id="746"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -no (complementizer)">
+    phenomena="Attitudes, -no (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は花壇の花に水をやるのを忘れていた。
@@ -337,7 +336,8 @@
     jsem_id="747"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive, -to (complementizer)">
+    phenomena="Attitudes, non-factive, -to (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は花子ががさつであると嘆いた。
@@ -353,7 +353,8 @@
     jsem_id="748"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive, -toiukoto (complementizer)">
+    phenomena="Attitudes, non-factive, -toiukoto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は花子ががさつであるということを嘆いた。
@@ -363,7 +364,7 @@
       花子はがさつである。
     </script>
   </h>
-  <note>久野(1973) p.138, 井上(1976) p.254, 261。「コト」をとると叙実述語、「ト」「トイウコト」をとると非叙実述語になる。</note>
+  <note>久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。</note>
 </problem>
 <problem
     jsem_id="749"
@@ -403,7 +404,8 @@
     jsem_id="751"
     answer="no"
     language="ja"
-    phenomena="Attitudes, counter-factive">
+    phenomena="Attitudes, counter-factive"
+    inference_type="presupposition">
   <p idx="1">
     <script>
        学生達は試験が延期になったと思い違いした。
@@ -419,7 +421,8 @@
     jsem_id="752"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, adverb">
+    phenomena="Attitudes, adverb"
+    inference_type="entailment">
   <link resource="fracas" link_id="336" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -445,7 +448,8 @@
     jsem_id="753"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, implicative verb">
+    phenomena="Attitudes, implicative verb"
+    inference_type="entailment">
   <p idx="1">
     <script>
       山田氏はトマトから有効成分を抽出することに成功した。
@@ -460,7 +464,8 @@
     jsem_id="754"
     answer="no"
     language="ja"
-    phenomena="Attitudes, negative implicative">
+    phenomena="Attitudes, negative implicative"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は7時の電車に乗り損なった。
@@ -477,7 +482,8 @@
     jsem_id="755"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, negative implicative">
+    phenomena="Attitudes, negative implicative"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は7時の電車に乗り損なわなかった。
@@ -494,7 +500,8 @@
     jsem_id="756"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive">
+    phenomena="Attitudes, non-factive"
+    inference_type="entailment">
   <link resource="fracas" link_id="337" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -519,7 +526,8 @@
     jsem_id="757"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, implicative verb">
+    phenomena="Attitudes, implicative verb"
+    inference_type="entailment">
   <link resource="fracas" link_id="338" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -544,7 +552,8 @@
     jsem_id="758"
     answer="no"
     language="ja"
-    phenomena="Attitudes, implicative verb">
+    phenomena="Attitudes, implicative verb"
+    inference_type="entailment">
   <link resource="fracas" link_id="339" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -569,7 +578,8 @@
     jsem_id="759"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, perception verb">
+    phenomena="Attitudes, perception verb"
+    inference_type="entailment">
   <link resource="fracas" link_id="340" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -602,7 +612,8 @@
     jsem_id="760"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, perception verb">
+    phenomena="Attitudes, perception verb"
+    inference_type="entailment">
   <link resource="fracas" link_id="341" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -638,7 +649,8 @@
     jsem_id="761"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, veridicality">
+    phenomena="Attitudes, perception verb, veridicality"
+    inference_type="entailment">
   <link resource="fracas" link_id="342" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -662,7 +674,8 @@
     jsem_id="762"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb">
+    phenomena="Attitudes, perception verb"
+    inference_type="entailment">
    <link resource="fracas" link_id="342" translation="yes"
     same_phenomena="unknown"></link>
   <p idx="1">
@@ -687,7 +700,8 @@
     jsem_id="763"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, substitution">
+    phenomena="Attitudes, perception verb, substitution"
+    inference_type="entailment">
   <link resource="fracas" link_id="343" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -722,7 +736,8 @@
     jsem_id="764"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, existential instantiation">
+    phenomena="Attitudes, perception verb, existential instantiation"
+    inference_type="entailment">
   <link resource="fracas" link_id="344" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -754,7 +769,8 @@
     jsem_id="765"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, existential instantiation">
+    phenomena="Attitudes, perception verb, existential instantiation"
+    inference_type="entailment">
    <link resource="fracas" link_id="344" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -786,7 +802,8 @@
     jsem_id="766"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, existential instantiation">
+    phenomena="Attitudes, perception verb, existential instantiation"
+    inference_type="entailment">
     <p idx="1">
       <script>	
 	ヘレンは学科長が電話に出るところを見た。
@@ -807,7 +824,8 @@
     jsem_id="767"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, conjunction distribution">
+    phenomena="Attitudes, perception verb, conjunction distribution"
+    inference_type="entailment">
   <link resource="fracas" link_id="345" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -831,7 +849,8 @@
     jsem_id="768"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, disjunction distribution">
+    phenomena="Attitudes, perception verb, disjunction distribution"
+    inference_type="entailment">
   <link resource="fracas" link_id="346" translation="yes"
     same_phenomena="unknown"></link>
     <p idx="1">
@@ -856,7 +875,8 @@
     jsem_id="769"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, -no (complementizer)">
+    phenomena="Attitudes, perception verb, -no (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       私は太郎がコンクールでピアノを弾くのを聞いた。
@@ -872,7 +892,8 @@
     jsem_id="770"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -koto (complementizer)">
+    phenomena="Attitudes, -koto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       私は太郎がコンクールでピアノを弾くことを聞いた。
@@ -903,7 +924,8 @@
     jsem_id="772"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -toiukoto (complementizer)">
+    phenomena="Attitudes, -toiukoto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       私は太郎がコンクールでピアノを弾くということを聞いた。
@@ -918,7 +940,8 @@
     jsem_id="773"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -toiuno (complementizer)">
+    phenomena="Attitudes, -toiuno (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       私は太郎がコンクールでピアノを弾くというのを聞いた。
@@ -934,7 +957,8 @@
     jsem_id="774"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -koto (complementizer)">
+    phenomena="Attitudes, -koto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       花子は太郎が次郎の結婚式に来ることを期待していた。
@@ -951,7 +975,8 @@
     jsem_id="775"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -no (complementizer)">
+    phenomena="Attitudes, -no (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       太郎は花子が次郎の結婚式に来るのを期待していた。
@@ -968,7 +993,8 @@
     jsem_id="776"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)">
+    phenomena="Attitudes, -to (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       花子は太郎が次郎の結婚式に来ると期待していた。
@@ -985,7 +1011,8 @@
     jsem_id="777"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)">
+    phenomena="Attitudes, -to (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       太郎は花子が犯人であると疑っている。
@@ -1000,7 +1027,8 @@
     jsem_id="778"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)">
+    phenomena="Attitudes, -to (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は花子が犯人ではないかと疑っている。
@@ -1015,7 +1043,8 @@
     jsem_id="779"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)">
+    phenomena="Attitudes, -to (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は花子が犯人であると疑っている。
@@ -1030,7 +1059,8 @@
     jsem_id="780"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, -koto (complementizer)">
+    phenomena="Attitudes, -koto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎は花子が犯人であることを疑っている。
@@ -1045,7 +1075,8 @@
     jsem_id="781"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -koto (complementizer)">
+    phenomena="Attitudes, if-predicate, -koto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が昨日花子に会ったことはたしかだ。
@@ -1061,7 +1092,8 @@
     jsem_id="782"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -no (complementizer)">
+    phenomena="Attitudes, if-predicate, -no (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が昨日花子に会ったのはたしかだ。
@@ -1077,7 +1109,8 @@
     jsem_id="783"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -toiukoto (complementizer)">
+    phenomena="Attitudes, if-predicate, -toiukoto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が昨日花子に会ったということはたしかだ。
@@ -1092,7 +1125,8 @@
     jsem_id="784"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -toiuno (complementizer)">
+    phenomena="Attitudes, if-predicate, -toiuno (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が昨日花子に会ったというのはたしかだ。
@@ -1107,7 +1141,8 @@
     jsem_id="785"
     answer="no"
     language="ja"
-    phenomena="Attitudes, only-if-predicate, -koto (complementizer)">
+    phenomena="Attitudes, only-if-predicate, -koto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が犯人であることはありえない。
@@ -1123,7 +1158,8 @@
     jsem_id="786"
     answer="no"
     language="ja"
-    phenomena="Attitudes, only-if-predicate, -toiukoto (complementizer)">
+    phenomena="Attitudes, only-if-predicate, -toiukoto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が犯人であるということはありえない。
@@ -1138,7 +1174,8 @@
     jsem_id="787"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, only-if-predicate">
+    phenomena="Attitudes, only-if-predicate"
+    inference_type="entailment">
   <p idx="1">
     <script>
       太郎が犯人であることがありうる。
@@ -1154,7 +1191,8 @@
     jsem_id="788"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, only-if-predicate, -toiukoto (complementizer)">
+    phenomena="Attitudes, only-if-predicate, -toiukoto (complementizer)"
+    inference_type="entailment">
   <p idx="1">
     <script>      
       太郎が犯人であるということがありうる。

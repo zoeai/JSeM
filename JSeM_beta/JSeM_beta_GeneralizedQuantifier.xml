@@ -384,7 +384,7 @@
     </h>
     <note>comments for FraCaS by Bill MacCartney:Note that second premise is unnecessary and irrelevant. </note>
   </problem>
-  <problem jsem_id="20" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="entailment">
+  <problem jsem_id="20" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="presupposition">
     <link resource="fracas" link_id="002" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -397,7 +397,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="21" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity" inference_type="entailment">
+  <problem jsem_id="21" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity" inference_type="presupposition">
     <link resource="fracas" link_id="002" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -412,7 +412,7 @@
     <note>
     </note>
   </problem>
-  <problem jsem_id="22" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, N-no QC" inference_type="entailment">
+  <problem jsem_id="22" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, N-no QC" inference_type="presupposition">
     <link resource="fracas" link_id="002" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -427,7 +427,7 @@
     <note>
     </note>
   </problem>
-  <problem jsem_id="23" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="entailment">
+  <problem jsem_id="23" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="presupposition">
     <link resource="fracas" link_id="002" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -580,7 +580,7 @@
     </h>
     <note>comments for FraCaS by Bill MacCartney:Note that second premise is unnecessary and irrelevant. </note>
   </problem>
-  <problem jsem_id="29" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="entailment">
+  <problem jsem_id="29" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="presupposition">
     <link resource="fracas" link_id="003" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -593,7 +593,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="30" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="entailment">
+  <problem jsem_id="30" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="presupposition">
     <link resource="fracas" link_id="003" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -606,7 +606,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="31" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, NQC" inference_type="entailment">
+  <problem jsem_id="31" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, NQC" inference_type="presupposition">
     <link resource="fracas" link_id="003" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -619,7 +619,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="32" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="entailment">
+  <problem jsem_id="32" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="presupposition">
     <link resource="fracas" link_id="003" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -632,7 +632,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="33" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, quantificational morpheme" inference_type="entailment">
+  <problem jsem_id="33" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, quantificational morpheme" inference_type="presupposition">
     <link resource="fracas" link_id="003" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -878,7 +878,7 @@
     <note>comments for FraCaS by Bill MacCartney: Note that second premise is unnecessary and irrelevant. </note>
     <note>AK: A literal translation for "to be great" is "偉大になりたがっている," but it sounds slightly unnatural.  The meaning of "偉大な歌手になりたがっている" in P1 and H is "to be a great singer."</note>
   </problem>
-  <problem jsem_id="42" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="entailment">
+  <problem jsem_id="42" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -891,7 +891,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="43" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, N-no QC" inference_type="entailment">
+  <problem jsem_id="43" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, N-no QC" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -904,7 +904,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="44" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, quantificational morpheme" inference_type="entailment">
+  <problem jsem_id="44" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, quantificational morpheme" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -917,7 +917,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="45" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="entailment">
+  <problem jsem_id="45" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -930,7 +930,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="46" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="entailment">
+  <problem jsem_id="46" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, Q-no NC" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -943,7 +943,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="47" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, N-no QC" inference_type="entailment">
+  <problem jsem_id="47" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, N-no QC" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -957,7 +957,7 @@
     </h>
     <note>AK: each of?</note>
   </problem>
-  <problem jsem_id="48" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="entailment">
+  <problem jsem_id="48" answer="yes" language="ja" phenomena="Generalized Quantifier, conservativity, floating quantifier" inference_type="presupposition">
     <link resource="fracas" link_id="004" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1693,7 +1693,7 @@
 	</script>
     </h>
   </problem>
-  <problem jsem_id="93" answer="undef" language="ja" phenomena="Generalized Quantifier, conservativity, negation" inference_type="entailment">
+  <problem jsem_id="93" answer="unknown" language="ja" phenomena="Generalized Quantifier, conservativity, negation" inference_type="entailment">
     <link resource="fracas" link_id="012" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -1713,7 +1713,7 @@
     </h>
     <note>AK: There is no nominal expression corresponds to "few N" in Japanese. The translation of P1 above, with negative use of the adverb "hotondo" and negation, has the same meaning as original. </note>
   </problem>
-  <problem jsem_id="94" answer="undef" language="ja" phenomena="Generalized Quantifier, conservativity, negation" inference_type="entailment">
+  <problem jsem_id="94" answer="unknown" language="ja" phenomena="Generalized Quantifier, conservativity, negation" inference_type="entailment">
     <link resource="fracas" link_id="012" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -3137,7 +3137,7 @@
     </p>
     <h>
       <script>
-	社員のそれぞれ社内資料を自由に閲覧できる。
+	社員のそれぞれが社内資料を自由に閲覧できる。
 	</script>
     </h>
     <note>
@@ -3892,7 +3892,7 @@
     <note>
     </note>
   </problem>
-  <problem jsem_id="182" answer="unknown" language="ja" phenomena="monotonicity (upwards on second argument), negation" inference_type="entailment">
+  <problem jsem_id="182" answer="unknown" language="ja" phenomena="Generalized Quantifier, monotonicity (upwards on second argument), negation" inference_type="entailment">
     <link resource="fracas" link_id="028" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -3928,7 +3928,7 @@
     </h>
     <note>AK: There is no nominal expression corresponds to "few N" in Japanese. The translation of P1 above has the same meaning as original. </note>
   </problem>
-  <problem jsem_id="183" answer="unknown" language="ja" phenomena="monotonicity (upwards on second argument), negation" inference_type="entailment">
+  <problem jsem_id="183" answer="unknown" language="ja" phenomena="Generalized Quantifier, monotonicity (upwards on second argument), negation" inference_type="entailment">
     <link resource="fracas" link_id="028" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>

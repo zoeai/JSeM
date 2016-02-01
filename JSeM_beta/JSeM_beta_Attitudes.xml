@@ -758,7 +758,7 @@
     </p>
     <h>
       <script>	
-	電話に出るのをヘレンが見た人がいる。
+	電話に出るのをヘレンが見た人間がいる。
       </script>
       <english>	
 	There is someone whom Helen saw answer the phone.
@@ -791,7 +791,7 @@
     </p>
     <h>
       <script>	
-	電話に出るところをヘレンが見た人がいる。
+	電話に出るところをヘレンが見た人間がいる。
       </script>
       <english>	
 	There is someone whom Helen saw answer the phone.
@@ -816,7 +816,7 @@
     </p>
     <h>
       <script>	
-	電話に出るところをヘレンに見られた人がいる。
+	電話に出るところをヘレンに見られた人間がいる。
       </script>
     </h>
  </problem>
@@ -1145,7 +1145,7 @@
     inference_type="entailment">
   <p idx="1">
     <script>
-      太郎が犯人であることはありえない。
+      太郎が犯人であることは有り得ない。
     </script>
     </p><h>
     <script>
@@ -1162,7 +1162,7 @@
     inference_type="entailment">
   <p idx="1">
     <script>
-      太郎が犯人であるということはありえない。
+      太郎が犯人であるということは有り得ない。
     </script>
     </p><h>
     <script>
@@ -1178,7 +1178,7 @@
     inference_type="entailment">
   <p idx="1">
     <script>
-      太郎が犯人であることがありうる。
+      太郎が犯人であることが有り得る。
     </script>
     </p><h>
     <script>
@@ -1195,7 +1195,7 @@
     inference_type="entailment">
   <p idx="1">
     <script>      
-      太郎が犯人であるということがありうる。
+      太郎が犯人であるということが有り得る。
     </script>
     </p><h>
     <script>      

@@ -5,7 +5,7 @@
   <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
   <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
   <comment> This Beta version contains textual inference tests involving nominal anaphora, which corresponds to Nominal Anaphora section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
-  <problem jsem_id="414" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="entailment">
+  <problem jsem_id="414" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="entailment">
     <link resource="fracas" link_id="114" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -24,7 +24,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="415" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="presupposition">
+  <problem jsem_id="415" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="presupposition">
     <link resource="fracas" link_id="115" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -43,7 +43,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="416" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="presupposition">
+  <problem jsem_id="416" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="presupposition">
     <link resource="fracas" link_id="116" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -62,7 +62,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="417" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="entailment">
+  <problem jsem_id="417" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="entailment">
     <link resource="fracas" link_id="117" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -90,7 +90,7 @@
     </h>
     <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は厳密には英語のhe/sheなどの対応物ではない。よって、上記の例は現象レベルでは英語の例と一致していない。</note>
   </problem>
-  <problem jsem_id="418" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="entailment">
+  <problem jsem_id="418" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="entailment">
     <link resource="fracas" link_id="117" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -109,7 +109,7 @@
     </h>
     <note>AK: 「すべて」「そこ」によるbound variable anaphora</note>
   </problem>
-  <problem jsem_id="419" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="entailment">
+  <problem jsem_id="419" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="entailment">
     <link resource="fracas" link_id="117" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -134,7 +134,7 @@
     </h>
     <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は厳密には英語のhe/sheなどの対応物ではない。よって、上記の例は現象レベルでは英語の例と一致していない。</note>
   </problem>
-  <problem jsem_id="420" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="entailment">
+  <problem jsem_id="420" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="entailment">
     <link resource="fracas" link_id="117" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -153,7 +153,7 @@
     </h>
     <note>AK: 「どのNも」「そこ」によるbound variable anaphora</note>
   </problem>
-  <problem jsem_id="421" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="presupposition">
+  <problem jsem_id="421" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="presupposition">
     <link resource="fracas" link_id="118" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -181,7 +181,7 @@
     </h>
     <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は英語のhe/sheなどの代名詞と異なる振る舞いを見せるので、上記の例は現象レベルでは英語の例と一致していない。また、この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。（例えば、「すべての学生が自分のワークステーションを他人に譲った」だと、学生であるメアリーが現在ワークステーションを持っていることにはならない。</note>
   </problem>
-  <problem jsem_id="422" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="presupposition">
+  <problem jsem_id="422" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="presupposition">
     <link resource="fracas" link_id="118" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -209,7 +209,7 @@
     </h>
     <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は英語のhe/sheなどの代名詞と異なる振る舞いを見せるので、上記の例は現象レベルでは英語の例と一致していない。また、この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。（例えば、p1が「どの学生も自分のワークステーションを他人に譲った」だと、学生であるメアリーが現在ワークステーションを持っていることにはならない。</note>
   </problem>
-  <problem jsem_id="423" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="presupposition">
+  <problem jsem_id="423" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="presupposition">
     <link resource="fracas" link_id="118" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -228,7 +228,7 @@
     </h>
     <note>AK: この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。例えば、p1が「すべての地方自治体がそこのイメージキャラクターを廃止した」だと、地方自治体である仙台市が現在イメージキャラクターを持っていることにはならない。</note>
   </problem>
-  <problem jsem_id="424" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="presupposition">
+  <problem jsem_id="424" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="presupposition">
     <link resource="fracas" link_id="118" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -247,7 +247,7 @@
     </h>
     <note>AK: この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。例えば、p1が「どの地方自治体もそこのイメージキャラクターを廃止した」だと、地方自治体である仙台市が現在イメージキャラクターを持っていることにはならない。</note>
   </problem>
-  <problem jsem_id="425" answer="yes" language="ja" phenomena="Nominal Anaphora, intra-sentential, zibun (reflexive), bound variable anaphora, negation" inference_type="entailment">
+  <problem jsem_id="425" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora, negation" inference_type="entailment">
     <link resource="fracas" link_id="119" translation="no" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -275,7 +275,7 @@
     </h>
     <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は英語のhe/sheなどの代名詞と異なる振る舞いを見せるので、上記の例は現象レベルでは英語の例と一致していない。</note>
   </problem>
-  <problem jsem_id="426" answer="yes" language="ja" phenomena="Nominal Anaphora, inter-sentential" inference_type="entailment">
+  <problem jsem_id="426" answer="yes" language="ja" phenomena="nominal anaphora, inter-sentential" inference_type="entailment">
     <link resource="fracas" link_id="120" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -304,7 +304,7 @@
     <note>
     </note>
   </problem>
-  <problem jsem_id="427" answer="yes" language="ja" phenomena="Nominal Anaphora, inter-sentential" inference_type="entailment">
+  <problem jsem_id="427" answer="yes" language="ja" phenomena="nominal anaphora, inter-sentential" inference_type="entailment">
     <link resource="fracas" link_id="121" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -339,7 +339,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="428" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="428" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="123" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -366,7 +366,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="429" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="429" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="124" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -393,7 +393,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="430" answer="unknown" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="430" answer="unknown" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="125" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -421,7 +421,7 @@
     </h>
     <note>comments in original FraCaS: set difference can't be used to construct plural antecedents</note>
   </problem>
-  <problem jsem_id="431" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="431" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="126" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -448,7 +448,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="432" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="432" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="127" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -477,7 +477,7 @@
     <note>comments in original FraCaS: construction of plural antecedents from separate constituents.</note>
     <note>AK: Hを集合的に解釈すればyes。分配的に解釈すればunknown。</note>
   </problem>
-  <problem jsem_id="433" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="433" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="128" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -504,7 +504,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="434" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="434" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="128" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -531,7 +531,7 @@
 	</english>
     </h>
   </problem>
-  <problem jsem_id="435" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="435" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="129" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -559,7 +559,7 @@
     </h>
     <note>AK: p2の「彼ら」が、ジョンとジョンの同僚を指すと解釈すればyes.</note>
   </problem>
-  <problem jsem_id="436" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="436" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="129" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -587,7 +587,7 @@
     </h>
     <note>AK: p2の「彼ら」が、ジョンとジョンの同僚を指すと解釈すればyes.</note>
   </problem>
-  <problem jsem_id="437" answer="unknown" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="437" answer="unknown" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="130" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -615,7 +615,7 @@
     </h>
     <note>AK: p2の「彼ら」が、ジョンの同僚のみを指し、ジョンを指さないとすればunknown.</note>
   </problem>
-  <problem jsem_id="438" answer="unknown" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="438" answer="unknown" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="130" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -643,7 +643,7 @@
     </h>
     <note>AK: p2の「彼ら」が、ジョンの同僚のみを指し、ジョンを指さないとすればunknown.</note>
   </problem>
-  <problem jsem_id="439" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="439" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="131" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -671,7 +671,7 @@
     </h>
     <note>Dependent plural anaphora</note>
   </problem>
-  <problem jsem_id="440" answer="yes" language="ja" phenomena="Nominal Anaphora, plural anaphora" inference_type="entailment">
+  <problem jsem_id="440" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
     <link resource="fracas" link_id="132" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -699,7 +699,7 @@
     </h>
     <note>comments in original FraCaS (Cooper et al.1996): Paycheque pronoun</note>
   </problem>
-  <problem jsem_id="441" answer="yes" language="ja" phenomena="Nominal Anaphora, E-type anaphora" inference_type="entailment">
+  <problem jsem_id="441" answer="yes" language="ja" phenomena="nominal anaphora, E-type anaphora" inference_type="entailment">
     <link resource="fracas" link_id="133" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -727,7 +727,7 @@
     </h>
     <note>comments in original FraCaS (Cooper et al.1996): E-type anaphora</note>
   </problem>
-  <problem jsem_id="442" answer="yes" language="ja" phenomena="Nominal Anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+  <problem jsem_id="442" answer="yes" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
     <link resource="fracas" link_id="134" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -755,7 +755,7 @@
     </h>
     <note>comments in original FraCaS (Cooper et al.1996): Donkey sentence</note>
   </problem>
-  <problem jsem_id="443" answer="unknown" language="ja" phenomena="Nominal Anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+  <problem jsem_id="443" answer="unknown" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
     <link resource="fracas" link_id="135" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -783,7 +783,7 @@
     </h>
     <note>comments in original FraCaS: This pattern of inference, unlike (124), tends to some theory dependence. Although the inference seems correct in this example, compare with (136).</note>
   </problem>
-  <problem jsem_id="444" answer="unknown" language="ja" phenomena="Nominal Anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+  <problem jsem_id="444" answer="unknown" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
     <link resource="fracas" link_id="136" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -811,7 +811,7 @@
     </h>
     <note>comments in original FraCaS: Similar to (135), except for tense and pragmatic plausibility.</note>
   </problem>
-  <problem jsem_id="445" answer="yes" language="ja" phenomena="Nominal Anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+  <problem jsem_id="445" answer="yes" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
     <link resource="fracas" link_id="137" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -862,7 +862,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="446" answer="yes" language="ja" phenomena="Nominal Anaphora, functional and subsectional anaphora" inference_type="entailment">
+  <problem jsem_id="446" answer="yes" language="ja" phenomena="nominal anaphora, functional and subsectional anaphora" inference_type="entailment">
     <link resource="fracas" link_id="138" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -897,7 +897,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="447" answer="yes" language="ja" phenomena="Nominal Anaphora, simple reflexives, zibun (reflexive)" inference_type="entailment">
+  <problem jsem_id="447" answer="yes" language="ja" phenomena="nominal anaphora, simple reflexive, zibun (reflexive)" inference_type="entailment">
     <link resource="fracas" link_id="139" translation="no" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -911,7 +911,7 @@
     </h>
     <note>AK: FraCaSのhimselfを含む例の対応物として上の例を作成したが、よく知られているように「自分」は長距離照応を許すなど、英語のhimselfとは異なる振る舞いを示す(久野1978他)。よって、上の例は、現象レベルでは厳密には英語の例と対応していない。</note>
   </problem>
-  <problem jsem_id="448" answer="yes" language="ja" phenomena="Nominal Anaphora, simple reflexives, zibun (reflexive)" inference_type="entailment">
+  <problem jsem_id="448" answer="yes" language="ja" phenomena="nominal anaphora, simple reflexive, zibun (reflexive)" inference_type="entailment">
     <link resource="fracas" link_id="140" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -931,7 +931,7 @@
     </h>
     <note>AK: よく知られているように「自分」は長距離照応を許すなど、英語のhimselfとは異なる振る舞いを示す(久野1978他)。よって、上の例は、現象レベルでは厳密には英語の例と対応していない。</note>
   </problem>
-  <problem jsem_id="449" answer="yes" language="ja" phenomena="Nominal Anaphora, simple reflexives, zibun (reflexive)" inference_type="entailment">
+  <problem jsem_id="449" answer="yes" language="ja" phenomena="nominal anaphora, simple reflexive, zibun (reflexive)" inference_type="entailment">
     <link resource="fracas" link_id="141" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>

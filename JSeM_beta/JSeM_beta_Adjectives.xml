@@ -6,7 +6,7 @@
   <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
   <comment> This Beta version contains textual inference tests involving adjectives, which corresponds to Adjectives section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
 
-  <problem jsem_id="498" answer="yes" language="jp" phenomena="Adjective, affirmative adjective" inference_type="entailment">
+  <problem jsem_id="498" answer="yes" language="jp" phenomena="adjective, affirmative adjective" inference_type="entailment">
     <link resource="fracas" link_id="197" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -27,7 +27,7 @@
     </h>
     <note> Kamp (1975). Affirmative adjectives. Adj N は N を含意する</note>
   </problem>
-  <problem jsem_id="499" answer="unknown" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="499" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは偽物のダイアモンドを持っている。
@@ -40,7 +40,7 @@
     </h>
     <note> Kamp (1975). Non-affirmative adjectives. Adj N は N を含意しない</note>
   </problem>
-  <problem jsem_id="500" answer="yes" language="jp" phenomena="Adjective, affirmative adjective" inference_type="entailment">
+  <problem jsem_id="500" answer="yes" language="jp" phenomena="adjective, affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       これは本物のダイアモンドだ。
@@ -52,7 +52,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="501" answer="no" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="501" answer="no" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       これは偽物のダイアモンドだ。
@@ -66,7 +66,7 @@
     <note> Non-affirmative: Adj N は N を含意しない
       (この場合、Adj N は non-N を含意する) </note>
   </problem>
-  <problem jsem_id="502" answer="unknown" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="502" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       これは偽物の日本製の時計だ。
@@ -78,7 +78,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="503" answer="unknown" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="503" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       これは偽物の日本製の時計だ。
@@ -90,7 +90,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="504" answer="unknown" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="504" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       これは偽物の日本製の時計だ。
@@ -102,7 +102,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="505" answer="yes" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="505" answer="yes" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは自称ニューヨーク出身のピアニストだ。
@@ -114,7 +114,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="506" answer="unknown" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="506" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは自称ニューヨーク出身のピアニストだ。
@@ -126,7 +126,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="507" answer="unknown" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="507" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは自称ニューヨーク出身のピアニストだ。
@@ -138,7 +138,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="508" answer="no" jsem_nonstandard="true" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="508" answer="no" jsem_nonstandard="true" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <link resource="fracas" link_id="198" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -162,7 +162,7 @@
   Comment in fracas: Non-affirmative. Adj N does not entail N. (Opinions differ about whether "Adj N entails non-N")
 </note>
   </problem>
-  <problem jsem_id="509" answer="no" jsem_nonstandard="true" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="509" answer="no" jsem_nonstandard="true" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <link resource="fracas" link_id="198" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -188,7 +188,7 @@
    (Opinions differ about whether "Adj N entails non-N")
   </note>
   </problem>
-  <problem jsem_id="510" answer="yes" jsem_nonstandard="true" language="jp" phenomena="Adjective, non-affirmative adjective" inference_type="entailment">
+  <problem jsem_id="510" answer="yes" jsem_nonstandard="true" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
     <link resource="fracas" link_id="199" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -213,12 +213,12 @@
     adjectival predications are and aren't affirmed.
   </note>
   </problem>
-  <problem jsem_id="511" answer="yes" language="jp" phenomena="Adjective, affirmative adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="511" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
     <link resource="fracas" link_id="202" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
       <script>
-      すべてのほ乳類は動物だ。
+      すべての哺乳類は動物だ。
      </script>
       <english>
       Every mammal is an animal.
@@ -234,7 +234,7 @@
     </h>
     <note> Comment in fracas: [N1 entails N2] entails [Adj(N1) entails Adj(N2)] </note>
   </problem>
-  <problem jsem_id="512" answer="yes" language="jp" phenomena="Adjective, affirmative adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="512" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
     <link resource="fracas" link_id="203" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -255,7 +255,7 @@
     </h>
     <note> Comment in fracas: Adj(N)(x) entails Adj(x) </note>
   </problem>
-  <problem jsem_id="513" answer="yes" language="jp" phenomena="Adjective, affirmative adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="513" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはアメリカ人の外科医だ。
@@ -267,7 +267,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="514" answer="yes" language="jp" phenomena="Adjective, affirmative adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="514" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはアメリカ人の外科医だ。
@@ -279,7 +279,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="515" answer="yes" language="jp" phenomena="Adjective, affirmative adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="515" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはアメリカ人だ。
@@ -296,7 +296,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="516" answer="yes" language="jp" phenomena="Adjective, affirmative adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="516" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはアメリカ人の外科医だ。
@@ -308,7 +308,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="517" answer="unknown" language="jp" phenomena="Adjective, affirmative adjective, no comparison class, modal" inference_type="entailment">
+  <problem jsem_id="517" answer="unknown" language="jp" phenomena="adjective, affirmative adjective, no comparison class, modal" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはアメリカ人の外科医かもしれない。
@@ -320,7 +320,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="518" answer="unknown" language="jp" phenomena="Adjective, affirmative adjective, no comparison class, modal" inference_type="entailment">
+  <problem jsem_id="518" answer="unknown" language="jp" phenomena="adjective, affirmative adjective, no comparison class, modal" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはアメリカ人の外科医かもしれない。
@@ -332,7 +332,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="519" answer="no" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="519" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <link resource="fracas" link_id="204" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -355,7 +355,7 @@
 Comment in fracas: Small(N) entails !Large(N)
 </note>
   </problem>
-  <problem jsem_id="520" answer="no" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="520" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <link resource="fracas" link_id="205" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -377,7 +377,7 @@ Comment in fracas: Small(N) entails !Large(N)
     <note> Relative adjectives (Kennedy and McNally 2005). Comment in fracas: Large(N) entails !Small(N)
 </note>
   </problem>
-  <problem jsem_id="521" answer="unknown" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="521" answer="unknown" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <link resource="fracas" link_id="206" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -399,7 +399,7 @@ Comment in fracas: Small(N) entails !Large(N)
     <note> Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Small(N) =/=&gt; Large(N)
 </note>
   </problem>
-  <problem jsem_id="522" answer="unknown" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="522" answer="unknown" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <link resource="fracas" link_id="207" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -421,7 +421,7 @@ Comment in fracas: Small(N) entails !Large(N)
     <note> Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Large(N) =/=&gt; Small(N)
 </note>
   </problem>
-  <problem jsem_id="523" answer="no" language="jp" phenomena="Adjective, opposites, absolute adjective" inference_type="entailment">
+  <problem jsem_id="523" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
       窓は開いている。
@@ -442,7 +442,7 @@ Comment in fracas: Small(N) entails !Large(N)
 Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
-  <problem jsem_id="524" answer="no" language="jp" phenomena="Adjective, opposites, absolute adjective" inference_type="entailment">
+  <problem jsem_id="524" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
       窓は閉まっている。
@@ -463,7 +463,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
-  <problem jsem_id="525" answer="yes" language="jp" phenomena="Adjective, opposites, absolute adjective" inference_type="entailment">
+  <problem jsem_id="525" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
       窓は開いていない。
@@ -484,7 +484,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
-  <problem jsem_id="526" answer="yes" language="jp" phenomena="Adjective, opposites, absolute adjective" inference_type="entailment">
+  <problem jsem_id="526" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
       窓は閉まっていない。
@@ -505,7 +505,7 @@ not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Win
 not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
-  <problem jsem_id="527" answer="no" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="527" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       この料理はおいしい。
@@ -517,7 +517,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="528" answer="no" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="528" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       この料理はまずい。
@@ -529,7 +529,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="529" answer="yes" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="529" answer="yes" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       この料理はおいしくない。
@@ -541,7 +541,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="530" answer="unknown" language="jp" phenomena="Adjective, opposites, relative adjective" inference_type="entailment">
+  <problem jsem_id="530" answer="unknown" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
     <p idx="1">
       <script>
       この料理はまずくない。
@@ -553,7 +553,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="531" answer="yes" language="jp" phenomena="Adjective, opposites, comparative" inference_type="entailment">
+  <problem jsem_id="531" answer="yes" language="jp" phenomena="adjective, opposite, comparative" inference_type="entailment">
     <link resource="fracas" link_id="208" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -584,7 +584,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
    Comment in fracas: "Small" and "large" are related via the comparative "smaller"
   </note>
   </problem>
-  <problem jsem_id="532" answer="no" language="jp" phenomena="Adjective, opposites, comparative" inference_type="entailment">
+  <problem jsem_id="532" answer="no" language="jp" phenomena="adjective, opposite, comparative" inference_type="entailment">
     <link resource="fracas" link_id="209" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -615,7 +615,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
    Comment in fracas: "Small" and "large" are related via the comparative "larger"
   </note>
   </problem>
-  <problem jsem_id="533" answer="no" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="533" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="210" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -643,7 +643,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </english>
     </h>
   </problem>
-  <problem jsem_id="534" answer="no" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="534" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="211" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -671,7 +671,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </english>
     </h>
   </problem>
-  <problem jsem_id="535" answer="yes" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="535" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="212" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -717,7 +717,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     <note> Comment in fracas: Assume comparative relations exemplified in (208) and (209)
 </note>
   </problem>
-  <problem jsem_id="536" answer="undef" jsem_nonstandard="true" language="jp" phenomena="Adjective, opposites" inference_type="entailment">
+  <problem jsem_id="536" answer="undef" jsem_nonstandard="true" language="jp" phenomena="adjective, opposite" inference_type="entailment">
     <link resource="fracas" link_id="213" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -752,7 +752,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     the wider context.
 </note>
   </problem>
-  <problem jsem_id="537" answer="unknown" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="537" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       太郎は大きな家に住んでいる。
@@ -765,7 +765,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>西尾(1972, p.167)</note>
   </problem>
-  <problem jsem_id="538" answer="yes" language="jp" phenomena="Adjective, extensional comparison class" inference_type="presupposition">
+  <problem jsem_id="538" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="presupposition">
     <p idx="1">
       <script>
       山田氏は政治家にしては若い。
@@ -777,7 +777,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="539" answer="no" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="539" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       山田氏は政治家にしては若い。
@@ -790,7 +790,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>結論Hはdefault comparison classで解釈する</note>
   </problem>
-  <problem jsem_id="540" answer="unknown" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="540" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       山田氏はこの党の政治家にしては若い。
@@ -807,7 +807,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="541" answer="yes" language="jp" phenomena="Adjective, extensional comparison class" inference_type="presupposition">
+  <problem jsem_id="541" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="presupposition">
     <p idx="1">
       <script>
       山田氏は政治家の中では若い。
@@ -819,7 +819,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="542" answer="unknown" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="542" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       山田氏は政治家の中では若い方だ。
@@ -836,7 +836,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="543" answer="unknown" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="543" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       山田氏は今回の選挙に立候補した政治家の中では若い方だ。
@@ -853,7 +853,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="544" answer="yes" language="jp" phenomena="Adjective, extensional comparison class" inference_type="presupposition">
+  <problem jsem_id="544" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="presupposition">
     <p idx="1">
       <script>
       山田氏は政治家の割には若い。
@@ -865,7 +865,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="545" answer="no" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="545" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       山田氏は政治家の割には若い。
@@ -878,7 +878,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>結論Hはdefault comparison classで解釈する</note>
   </problem>
-  <problem jsem_id="546" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="546" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは有名なピアニストだ。
@@ -895,7 +895,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="547" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="547" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは最高のピアニストだ。
@@ -912,7 +912,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="548" answer="yes" language="jp" phenomena="Adjective, no comparison class" inference_type="entailment">
+  <problem jsem_id="548" answer="yes" language="jp" phenomena="adjective, no comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは左利きのピアニストだ。
@@ -929,7 +929,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="549" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="549" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは一流の指揮者だ。
@@ -946,7 +946,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="550" answer="yes" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="550" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは一流の指揮者だ。
@@ -958,7 +958,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="551" answer="yes" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="551" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは指揮者として一流だ。
@@ -970,7 +970,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="552" answer="yes" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="552" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは一流の指揮者だ。
@@ -982,7 +982,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="553" answer="yes" language="jp" phenomena="Adjective, intensional comparison class" inference_type="presupposition">
+  <problem jsem_id="553" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="presupposition">
     <p idx="1">
       <script>
       ジョンは指揮者として一流だ。
@@ -994,7 +994,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="554" answer="yes" language="jp" phenomena="Adjective, intensional comparison class" inference_type="presupposition">
+  <problem jsem_id="554" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="presupposition">
     <p idx="1">
       <script>
       ジョンは指揮者としては一流でない。
@@ -1006,7 +1006,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="555" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="555" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンは指揮者として一流だ。
@@ -1023,7 +1023,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="556" answer="yes" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="556" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="214" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -1052,7 +1052,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note> Kamp (1975). Comment in fracas: Extensional comparison class </note>
   </problem>
-  <problem jsem_id="557" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="557" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="215" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -1081,7 +1081,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note> Kamp (1975). Comment in fracas: Intensional comparison class </note>
   </problem>
-  <problem jsem_id="558" answer="yes" language="jp" phenomena="Adjective, extensional comparison class" inference_type="entailment">
+  <problem jsem_id="558" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="216" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -1102,7 +1102,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note> Comment in fracas: Extensional </note>
   </problem>
-  <problem jsem_id="559" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="559" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <link resource="fracas" link_id="217" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -1123,7 +1123,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note> Comment in fracas: Intensional </note>
   </problem>
-  <problem jsem_id="560" answer="unknown" language="jp" phenomena="Adjective, intensional comparison class" inference_type="entailment">
+  <problem jsem_id="560" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
     <p idx="1">
       <script>
       ジョンはビルより政治家としては有能だ。
@@ -1135,7 +1135,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </script>
     </h>
   </problem>
-  <problem jsem_id="561" answer="yes" language="jp" phenomena="Adjective, default comparison class" inference_type="entailment">
+  <problem jsem_id="561" answer="yes" language="jp" phenomena="adjective, default comparison class" inference_type="entailment">
     <link resource="fracas" link_id="218" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -1156,7 +1156,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <comment> Comment in fracas: Comparison class adjectives can sometimes pick up a default comparison class from the subject NP. For example, knowing that Kim is a person provides a default scale for assessing cleverness in people. If Kim were known to be a dog, the assessment scale would be different. </comment>
   </problem>
-  <problem jsem_id="562" answer="unknown" language="jp" phenomena="Adjective, default comparison class" inference_type="entailment">
+  <problem jsem_id="562" answer="unknown" language="jp" phenomena="adjective, default comparison class" inference_type="entailment">
     <link resource="fracas" link_id="219" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -1176,7 +1176,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
      </english>
     </h>
   </problem>
-  <problem jsem_id="563" answer="yes" language="jp" phenomena="Adjective, degree modifier, partial predicate" inference_type="entailment">
+  <problem jsem_id="563" answer="yes" language="jp" phenomena="adjective, degree modifier, partial predicate" inference_type="entailment">
     <p idx="1">
       <script>
       このタオルは少しぬれている。
@@ -1189,7 +1189,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="564" answer="no" language="jp" phenomena="Adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem jsem_id="564" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
       このタオルはほぼ乾いている。
@@ -1202,7 +1202,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="565" answer="yes" language="jp" phenomena="Adjective, degree modifier, partial predicate" inference_type="entailment">
+  <problem jsem_id="565" answer="yes" language="jp" phenomena="adjective, degree modifier, partial predicate" inference_type="entailment">
     <p idx="1">
       <script>
       ドアが半分開いている。
@@ -1215,7 +1215,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="566" answer="no" language="jp" phenomena="Adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem jsem_id="566" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
       ドアが半分閉まっている。
@@ -1228,7 +1228,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="567" answer="yes" language="jp" phenomena="Adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem jsem_id="567" answer="yes" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
       ドアが少し開いている。
@@ -1241,7 +1241,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="568" answer="no" language="jp" phenomena="Adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem jsem_id="568" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
       ドアがほぼ閉まっている。

@@ -9,7 +9,7 @@
     jsem_id="729"
       answer="yes"
       language="ja"
-      phenomena="Attitudes, factive"
+      phenomena="attitude, factive"
       inference_type="presupposition">
     <link resource="fracas" link_id="334" translation="yes"
 	  same_phenomena="unknown"></link>
@@ -34,7 +34,7 @@
     jsem_id="730"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive"
+    phenomena="attitude, factive"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -50,7 +50,7 @@
     jsem_id="731"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive"
+    phenomena="attitude, factive"
     inference_type="presupposition">
     <link resource="fracas" link_id="334" translation="yes"
        same_phenomena="unknown"></link>
@@ -75,7 +75,7 @@
     jsem_id="732"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive"
+    phenomena="attitude, factive"
     inference_type="presupposition">
     <p idx="1">
       <script>
@@ -91,7 +91,7 @@
     jsem_id="733"
       answer="unknown"
       language="ja"
-      phenomena="Attitudes, factive"
+      phenomena="attitude, factive"
       inference_type="entailment">
     <p idx="1">
       <script>
@@ -108,7 +108,7 @@
     jsem_id="734"
       answer="yes"
       language="ja"
-      phenomena="Attitudes, factive, -to (complementizer)"
+      phenomena="attitude, factive, -to (complementizer)"
       inference_type="presupposition">
     <p idx="1">
       <script>
@@ -125,7 +125,7 @@
     jsem_id="735"
       answer="yes"
       language="ja"
-      phenomena="Attitudes, factive, -toiukoto (complementizer)"
+      phenomena="attitude, factive, -toiukoto (complementizer)"
       inference_type="presupposition">
     <p idx="1">
       <script>
@@ -142,7 +142,7 @@
     jsem_id="736"
       answer="yes"
       language="ja"
-      phenomena="Attitudes, factive, -toiuno (complementizer)"
+      phenomena="attitude, factive, -toiuno (complementizer)"
       inference_type="presupposition">
     <p idx="1">
       <script>
@@ -159,7 +159,7 @@
     jsem_id="737"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -koto (complementizer)"
+    phenomena="attitude, factive, -koto (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -175,7 +175,7 @@
     jsem_id="738"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive"
+    phenomena="attitude, non-factive"
     inference_type="entailment">
   <link resource="fracas" link_id="335" translation="yes"
     same_phenomena="unknown"></link>
@@ -200,7 +200,7 @@
     jsem_id="739"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -toiukoto (complementizer)"
+    phenomena="attitude, -toiukoto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -218,7 +218,7 @@
     jsem_id="740"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive"
+    phenomena="attitude, non-factive"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -235,7 +235,7 @@
     jsem_id="741"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -koto (complementizer)"
+    phenomena="attitude, factive, -koto (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -252,7 +252,7 @@
     jsem_id="742"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -no (complementizer)"
+    phenomena="attitude, factive, -no (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -269,7 +269,7 @@
     jsem_id="743"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -toiukoto (complementizer)"
+    phenomena="attitude, factive, -toiukoto (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -285,7 +285,7 @@
     jsem_id="744"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -koto (complementizer)"
+    phenomena="attitude, factive, -koto (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -302,7 +302,7 @@
     jsem_id="745"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -no (complementizer)"
+    phenomena="attitude, factive, -no (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -319,7 +319,7 @@
     jsem_id="746"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -no (complementizer)"
+    phenomena="attitude, -no (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -336,7 +336,7 @@
     jsem_id="747"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive, -to (complementizer)"
+    phenomena="attitude, non-factive, -to (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -353,7 +353,7 @@
     jsem_id="748"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive, -toiukoto (complementizer)"
+    phenomena="attitude, non-factive, -toiukoto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -370,7 +370,7 @@
     jsem_id="749"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -koto (complementizer)"
+    phenomena="attitude, factive, -koto (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -387,7 +387,7 @@
     jsem_id="750"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, factive, -no (complementizer)"
+    phenomena="attitude, factive, -no (complementizer)"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -404,7 +404,7 @@
     jsem_id="751"
     answer="no"
     language="ja"
-    phenomena="Attitudes, counter-factive"
+    phenomena="attitude, counter-factive"
     inference_type="presupposition">
   <p idx="1">
     <script>
@@ -421,7 +421,7 @@
     jsem_id="752"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, adverb"
+    phenomena="attitude, adverb"
     inference_type="entailment">
   <link resource="fracas" link_id="336" translation="yes"
     same_phenomena="unknown"></link>
@@ -448,7 +448,7 @@
     jsem_id="753"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, implicative verb"
+    phenomena="attitude, implicative verb"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -464,7 +464,7 @@
     jsem_id="754"
     answer="no"
     language="ja"
-    phenomena="Attitudes, negative implicative"
+    phenomena="attitude, negative implicative"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -482,7 +482,7 @@
     jsem_id="755"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, negative implicative"
+    phenomena="attitude, negative implicative"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -500,7 +500,7 @@
     jsem_id="756"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, non-factive"
+    phenomena="attitude, non-factive"
     inference_type="entailment">
   <link resource="fracas" link_id="337" translation="yes"
     same_phenomena="unknown"></link>
@@ -526,7 +526,7 @@
     jsem_id="757"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, implicative verb"
+    phenomena="attitude, implicative verb"
     inference_type="entailment">
   <link resource="fracas" link_id="338" translation="yes"
     same_phenomena="unknown"></link>
@@ -552,7 +552,7 @@
     jsem_id="758"
     answer="no"
     language="ja"
-    phenomena="Attitudes, implicative verb"
+    phenomena="attitude, implicative verb"
     inference_type="entailment">
   <link resource="fracas" link_id="339" translation="yes"
     same_phenomena="unknown"></link>
@@ -578,7 +578,7 @@
     jsem_id="759"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, perception verb"
+    phenomena="attitude, perception verb"
     inference_type="entailment">
   <link resource="fracas" link_id="340" translation="yes"
     same_phenomena="unknown"></link>
@@ -612,7 +612,7 @@
     jsem_id="760"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, perception verb"
+    phenomena="attitude, perception verb"
     inference_type="entailment">
   <link resource="fracas" link_id="341" translation="yes"
     same_phenomena="unknown"></link>
@@ -649,7 +649,7 @@
     jsem_id="761"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, veridicality"
+    phenomena="attitude, perception verb, veridicality"
     inference_type="entailment">
   <link resource="fracas" link_id="342" translation="yes"
     same_phenomena="unknown"></link>
@@ -674,7 +674,7 @@
     jsem_id="762"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb"
+    phenomena="attitude, perception verb"
     inference_type="entailment">
    <link resource="fracas" link_id="342" translation="yes"
     same_phenomena="unknown"></link>
@@ -700,7 +700,7 @@
     jsem_id="763"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, substitution"
+    phenomena="attitude, perception verb, substitution"
     inference_type="entailment">
   <link resource="fracas" link_id="343" translation="yes"
     same_phenomena="unknown"></link>
@@ -736,7 +736,7 @@
     jsem_id="764"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, existential instantiation"
+    phenomena="attitude, perception verb, existential instantiation"
     inference_type="entailment">
   <link resource="fracas" link_id="344" translation="yes"
     same_phenomena="unknown"></link>
@@ -769,7 +769,7 @@
     jsem_id="765"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, existential instantiation"
+    phenomena="attitude, perception verb, existential instantiation"
     inference_type="entailment">
    <link resource="fracas" link_id="344" translation="yes"
     same_phenomena="unknown"></link>
@@ -802,7 +802,7 @@
     jsem_id="766"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, existential instantiation"
+    phenomena="attitude, perception verb, existential instantiation"
     inference_type="entailment">
     <p idx="1">
       <script>	
@@ -824,7 +824,7 @@
     jsem_id="767"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, conjunction distribution"
+    phenomena="attitude, perception verb, conjunction distribution"
     inference_type="entailment">
   <link resource="fracas" link_id="345" translation="yes"
     same_phenomena="unknown"></link>
@@ -849,7 +849,7 @@
     jsem_id="768"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, disjunction distribution"
+    phenomena="attitude, perception verb, disjunction distribution"
     inference_type="entailment">
   <link resource="fracas" link_id="346" translation="yes"
     same_phenomena="unknown"></link>
@@ -875,7 +875,7 @@
     jsem_id="769"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, perception verb, -no (complementizer)"
+    phenomena="attitude, perception verb, -no (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -892,7 +892,7 @@
     jsem_id="770"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -koto (complementizer)"
+    phenomena="attitude, -koto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -909,7 +909,7 @@
     jsem_id="771"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)">
+    phenomena="attitude, -to (complementizer)">
   <p idx="1">
     <script>      
       私は太郎がコンクールでピアノを弾くと聞いた。
@@ -924,7 +924,7 @@
     jsem_id="772"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -toiukoto (complementizer)"
+    phenomena="attitude, -toiukoto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -940,7 +940,7 @@
     jsem_id="773"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -toiuno (complementizer)"
+    phenomena="attitude, -toiuno (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -957,7 +957,7 @@
     jsem_id="774"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -koto (complementizer)"
+    phenomena="attitude, -koto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -975,7 +975,7 @@
     jsem_id="775"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -no (complementizer)"
+    phenomena="attitude, -no (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -993,7 +993,7 @@
     jsem_id="776"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)"
+    phenomena="attitude, -to (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -1011,7 +1011,7 @@
     jsem_id="777"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)"
+    phenomena="attitude, -to (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      
@@ -1027,7 +1027,7 @@
     jsem_id="778"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)"
+    phenomena="attitude, -to (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1043,7 +1043,7 @@
     jsem_id="779"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, -to (complementizer)"
+    phenomena="attitude, -to (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1059,7 +1059,7 @@
     jsem_id="780"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, -koto (complementizer)"
+    phenomena="attitude, -koto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1075,7 +1075,7 @@
     jsem_id="781"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -koto (complementizer)"
+    phenomena="attitude, if-predicate, -koto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1092,7 +1092,7 @@
     jsem_id="782"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -no (complementizer)"
+    phenomena="attitude, if-predicate, -no (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1109,7 +1109,7 @@
     jsem_id="783"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -toiukoto (complementizer)"
+    phenomena="attitude, if-predicate, -toiukoto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1125,7 +1125,7 @@
     jsem_id="784"
     answer="yes"
     language="ja"
-    phenomena="Attitudes, if-predicate, -toiuno (complementizer)"
+    phenomena="attitude, if-predicate, -toiuno (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1141,7 +1141,7 @@
     jsem_id="785"
     answer="no"
     language="ja"
-    phenomena="Attitudes, only-if-predicate, -koto (complementizer)"
+    phenomena="attitude, only-if-predicate, -koto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1158,7 +1158,7 @@
     jsem_id="786"
     answer="no"
     language="ja"
-    phenomena="Attitudes, only-if-predicate, -toiukoto (complementizer)"
+    phenomena="attitude, only-if-predicate, -toiukoto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1174,7 +1174,7 @@
     jsem_id="787"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, only-if-predicate"
+    phenomena="attitude, only-if-predicate"
     inference_type="entailment">
   <p idx="1">
     <script>
@@ -1191,7 +1191,7 @@
     jsem_id="788"
     answer="unknown"
     language="ja"
-    phenomena="Attitudes, only-if-predicate, -toiukoto (complementizer)"
+    phenomena="attitude, only-if-predicate, -toiukoto (complementizer)"
     inference_type="entailment">
   <p idx="1">
     <script>      

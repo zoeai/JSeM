@@ -5,7 +5,7 @@
   <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
   <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
   <comment> This Beta version contains textual inference tests involving plurals, which corresponds to Plurals section in FraCaS test suite (Cooper et al. 1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
-  <problem jsem_id="370" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="370" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="081" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -24,7 +24,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="371" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, sosite (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="371" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, sosite (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="081" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -43,7 +43,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="372" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, -ni (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="372" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -ni (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="081" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -62,7 +62,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="373" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="373" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="082" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -81,7 +81,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="374" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, sosite (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="374" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, sosite (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="082" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -100,7 +100,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="375" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, -ni (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="375" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -ni (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="082" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -119,7 +119,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="376" answer="unknown" language="ja" phenomena="Plurals, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
+  <problem jsem_id="376" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="083" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -138,7 +138,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="377" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
+  <problem jsem_id="377" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="084" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -157,7 +157,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="378" answer="no" language="ja" phenomena="Plurals, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="378" answer="no" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="085" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -176,7 +176,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="379" answer="no" language="ja" phenomena="Plurals, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="379" answer="no" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="086" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -195,7 +195,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="380" answer="yes" language="ja" phenomena="Plurals, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="380" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="087" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -215,7 +215,7 @@
     </h>
     <note>AK: 「すべての代表者とすべての依頼人」という解釈および「すべての代表者と（一人あるいは何人かの）依頼人」という解釈があり、どちらにおいても上の推論は成り立つ。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上のP1の文には無い。</note>
   </problem>
-  <problem jsem_id="381" answer="undef" language="ja" phenomena="Plurals, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="381" answer="undef" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
     <p idx="1">
       <script>
 	すべての代表者と依頼人が会議に出席していた。
@@ -228,7 +228,7 @@
     </h>
     <note>AK: 「すべての代表者とすべての依頼人」という解釈ではyes。他方、「すべての代表者と一人あるいは何人かの依頼人」という解釈ではunknown。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上の文には無い。</note>
   </problem>
-  <problem jsem_id="382" answer="unknown" language="ja" phenomena="Plurals, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
+  <problem jsem_id="382" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
     <link resource="fracas" link_id="089" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -248,7 +248,7 @@
     </h>
     <note>AK: fracas作成者によれば、fracas-089のP1の解釈は「代表者あるいは依頼人であるようなすべての人」（すなわち、N-bar conjunction）という解釈のみ。よって、英語では上の推論が成り立つ。しかし日本語の上記のp1のような文では同様の解釈は不可能であるように思われる。可能な解釈は「すべての代表者かすべての依頼人」あるいは「すべての代表者か一人あるいは何人かの依頼人）」という解釈であり、いずれの解釈でも上の推論は成り立たない。</note>
   </problem>
-  <problem jsem_id="383" answer="unknown" language="ja" phenomena="Plurals, conjoined noun phrase, -ya (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="383" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -ya (conjunctive particle)" inference_type="entailment">
     <p idx="1">
       <script>
 	スミスやジョーンズやアンダーソンが契約書にサインした。
@@ -261,7 +261,7 @@
     </h>
     <note>AK: NP conjunction with "-ya"</note>
   </problem>
-  <problem jsem_id="384" answer="unknown" language="ja" phenomena="Plurals, conjoined noun phrase, -toka (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="384" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -toka (conjunctive particle)" inference_type="entailment">
     <p idx="1">
       <script>
 	スミスとかジョーンズとかアンダーソンとかが契約書にサインした。
@@ -274,7 +274,7 @@
     </h>
     <note>AK: NP conjunction with "toka"</note>
   </problem>
-  <problem jsem_id="385" answer="unknown" language="ja" phenomena="Plurals, conjoined noun phrase, -mo (conjunctive particle)" inference_type="entailment">
+  <problem jsem_id="385" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -mo (conjunctive particle)" inference_type="entailment">
     <p idx="1">
       <script>
 	スミスもジョーンズもアンダーソンも契約書にサインした。
@@ -287,7 +287,7 @@
     </h>
     <note>AK: NP conjunction with "mo"</note>
   </problem>
-  <problem jsem_id="386" answer="unknown" language="ja" phenomena="Plurals, definite plural, bare noun" inference_type="entailment">
+  <problem jsem_id="386" answer="unknown" language="ja" phenomena="plural, definite plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="091" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -307,7 +307,7 @@
     </h>
     <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."</note>
   </problem>
-  <problem jsem_id="387" answer="yes" language="ja" phenomena="Plurals, definite plural" inference_type="entailment">
+  <problem jsem_id="387" answer="yes" language="ja" phenomena="plural, definite plural" inference_type="entailment">
     <link resource="fracas" link_id="092" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -327,7 +327,7 @@
     </h>
     <note>AK: all the peopleを「人々全員」と訳したバージョン</note>
   </problem>
-  <problem jsem_id="388" answer="yes" language="ja" phenomena="Plurals, definite plural" inference_type="entailment">
+  <problem jsem_id="388" answer="yes" language="ja" phenomena="plural, definite plural" inference_type="entailment">
     <link resource="fracas" link_id="092" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -347,7 +347,7 @@
     </h>
     <note>AK: all the peopleを「人々の全員」と訳したバージョン</note>
   </problem>
-  <problem jsem_id="389" answer="yes" language="ja" phenomena="Plurals, definite plural, floating quantifier" inference_type="entailment">
+  <problem jsem_id="389" answer="yes" language="ja" phenomena="plural, definite plural, floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="093" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -367,7 +367,7 @@
     </h>
     <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."</note>
   </problem>
-  <problem jsem_id="390" answer="yes" language="ja" phenomena="Plurals, definite plural, floating quantifier" inference_type="entailment">
+  <problem jsem_id="390" answer="yes" language="ja" phenomena="plural, definite plural, floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="093" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -387,7 +387,7 @@
     </h>
     <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."</note>
   </problem>
-  <problem jsem_id="391" answer="unknown" language="ja" phenomena="Plurals, definite plural, bare noun" inference_type="entailment">
+  <problem jsem_id="391" answer="unknown" language="ja" phenomena="plural, definite plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="094" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -407,7 +407,7 @@
     </h>
     <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "ケンブリッジの住民" in P1 with a topic marker "wa", not "ga."</note>
   </problem>
-  <problem jsem_id="392" answer="unknown" language="ja" phenomena="Plurals, definite plural, bare noun" inference_type="entailment">
+  <problem jsem_id="392" answer="unknown" language="ja" phenomena="plural, definite plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="095" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -427,7 +427,7 @@
     </h>
     <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."</note>
   </problem>
-  <problem jsem_id="393" answer="yes" language="ja" phenomena="Plurals, definite plural, floating quantifier" inference_type="entailment">
+  <problem jsem_id="393" answer="yes" language="ja" phenomena="plural, definite plural, floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="096" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -447,7 +447,7 @@
     </h>
     <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."</note>
   </problem>
-  <problem jsem_id="394" answer="yes" language="ja" phenomena="Plurals, bare plural, bare noun" inference_type="entailment">
+  <problem jsem_id="394" answer="yes" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="097" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -468,7 +468,7 @@
     <note>comments in original FraCaS: existential bare plural</note>
     <note>AK: Existential, plural interpretation of a bare noun.</note>
   </problem>
-  <problem jsem_id="395" answer="unknown" language="ja" phenomena="Plurals, bare plural, bare noun" inference_type="entailment">
+  <problem jsem_id="395" answer="unknown" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="098" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -497,7 +497,7 @@
     <note>comments in original FraCaS: existential interpretation: not every software fault contributed to the failure.</note>
     <note>AK: Existential, plural interpretation of a bare noun.</note>
   </problem>
-  <problem jsem_id="396" answer="yes" language="ja" phenomena="Plurals, bare plural, bare noun, floating quantifier" inference_type="entailment">
+  <problem jsem_id="396" answer="yes" language="ja" phenomena="plural, bare plural, bare noun, floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="099" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -525,7 +525,7 @@
     </h>
     <note>comments in original FraCaS: (Quasi) universal bare plural</note>
   </problem>
-  <problem jsem_id="397" answer="undef" language="ja" phenomena="Plurals, bare plural, bare noun" inference_type="entailment">
+  <problem jsem_id="397" answer="undef" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="100" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -546,7 +546,7 @@
     <note>comments in original FraCaS: (Quasi) universal bare plural</note>
     <note>AK: The answer is "yes" if the bare noun "デモを見たクライアント" is interpreted as universal or generic, "unknown" otherwise.</note>
   </problem>
-  <problem jsem_id="398" answer="undef" language="ja" phenomena="Plurals, bare plural, bare noun" inference_type="entailment">
+  <problem jsem_id="398" answer="undef" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
     <link resource="fracas" link_id="101" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -575,7 +575,7 @@
     <note>comments in original FraCaS: Generic interpretation</note>
     <note>AK: 「大卒者」をuniversalあるいはgenericに解釈すればyes。それ以外の場合はunknown。なお、fracas-102で示されているような現象（hをSmith WILL make a poor stock market trader.とすると、unknownになる）に相当する日本語の現象があるかは不明。</note>
   </problem>
-  <problem jsem_id="399" answer="yes" language="ja" phenomena="Plurals, dependent plural, bare noun, floating quantifier" inference_type="entailment">
+  <problem jsem_id="399" answer="yes" language="ja" phenomena="plural, dependent plural, bare noun, floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="103" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -602,7 +602,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="400" answer="unknown" language="ja" phenomena="Plurals, dependent plural, N-no QC" inference_type="entailment">
+  <problem jsem_id="400" answer="unknown" language="ja" phenomena="plural, dependent plural, N-no QC" inference_type="entailment">
     <link resource="fracas" link_id="104" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -629,7 +629,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="401" answer="no" language="ja" phenomena="Plurals, negated plural" inference_type="entailment">
+  <problem jsem_id="401" answer="no" language="ja" phenomena="plural, negated plural" inference_type="entailment">
     <link resource="fracas" link_id="105" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -649,7 +649,7 @@
     </h>
     <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。</note>
   </problem>
-  <problem jsem_id="402" answer="no" language="ja" phenomena="Plurals, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+  <problem jsem_id="402" answer="no" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="105" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -669,7 +669,7 @@
     </h>
     <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。</note>
   </problem>
-  <problem jsem_id="403" answer="no" language="ja" phenomena="Plurals, negated plural" inference_type="entailment">
+  <problem jsem_id="403" answer="no" language="ja" phenomena="plural, negated plural" inference_type="entailment">
     <link resource="fracas" link_id="106" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -689,7 +689,7 @@
     </h>
     <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
   </problem>
-  <problem jsem_id="404" answer="no" language="ja" phenomena="Plurals, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+  <problem jsem_id="404" answer="no" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="106" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -709,7 +709,7 @@
     </h>
     <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
   </problem>
-  <problem jsem_id="405" answer="yes" language="ja" phenomena="Plurals, negated plural" inference_type="entailment">
+  <problem jsem_id="405" answer="yes" language="ja" phenomena="plural, negated plural" inference_type="entailment">
     <link resource="fracas" link_id="108" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -729,7 +729,7 @@
     </h>
     <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
   </problem>
-  <problem jsem_id="406" answer="yes" language="ja" phenomena="Plurals, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+  <problem jsem_id="406" answer="yes" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="108" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -749,7 +749,7 @@
     </h>
     <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
   </problem>
-  <problem jsem_id="407" answer="no" language="ja" phenomena="Plurals, negated plural" inference_type="entailment">
+  <problem jsem_id="407" answer="no" language="ja" phenomena="plural, negated plural" inference_type="entailment">
     <link resource="fracas" link_id="109" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -769,7 +769,7 @@
     </h>
     <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。</note>
   </problem>
-  <problem jsem_id="408" answer="no" language="ja" phenomena="Plurals, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+  <problem jsem_id="408" answer="no" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="109" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -789,7 +789,7 @@
     </h>
     <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。</note>
   </problem>
-  <problem jsem_id="409" answer="yes" language="ja" phenomena="Plurals, negated plural" inference_type="entailment">
+  <problem jsem_id="409" answer="yes" language="ja" phenomena="plural, negated plural" inference_type="entailment">
     <link resource="fracas" link_id="110" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -809,7 +809,7 @@
     </h>
     <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。</note>
   </problem>
-  <problem jsem_id="410" answer="yes" language="ja" phenomena="Plurals, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+  <problem jsem_id="410" answer="yes" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
     <link resource="fracas" link_id="110" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -829,7 +829,7 @@
     </h>
     <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。</note>
   </problem>
-  <problem jsem_id="411" answer="yes" language="ja" phenomena="Plurals, collective and distributive plural" inference_type="entailment">
+  <problem jsem_id="411" answer="yes" language="ja" phenomena="plural, collective and distributive plural" inference_type="entailment">
     <link resource="fracas" link_id="111" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -857,7 +857,7 @@
     </h>
     <note>AK: 集合的あるいは累積的な解釈ではyes</note>
   </problem>
-  <problem jsem_id="412" answer="yes" language="ja" phenomena="Plurals, collective and distributive plural" inference_type="entailment">
+  <problem jsem_id="412" answer="yes" language="ja" phenomena="plural, collective and distributive plural" inference_type="entailment">
     <link resource="fracas" link_id="112" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -885,7 +885,7 @@
     </h>
     <note>AK: 「スミスとジョーンズ」を分配的に解釈すればyes。</note>
   </problem>
-  <problem jsem_id="413" answer="yes" language="ja" phenomena="Plurals, collective and distributive plural" inference_type="entailment">
+  <problem jsem_id="413" answer="yes" language="ja" phenomena="plural, collective and distributive plural" inference_type="entailment">
     <link resource="fracas" link_id="113" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>

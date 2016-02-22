@@ -5,7 +5,7 @@
   <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
   <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
   <comment> This Beta version contains textual inference tests involving verbs, which corresponds to the Verb section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
-  <problem jsem_id="693" answer="yes" language="jp" phenomena="Verb, aspectual class" inference_type="entailment">
+  <problem jsem_id="693" answer="yes" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
     <link resource="fracas" link_id="326" translation="no" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -25,7 +25,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="694" answer="unknown" language="jp" phenomena="Verb, aspectual class" inference_type="entailment">
+  <problem jsem_id="694" answer="unknown" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
     <link resource="fracas" link_id="327" translation="no" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -47,7 +47,7 @@
     <note>P1のアスペクト表現「ていた」は進行と結果残存の意味で曖昧。 
 </note>
   </problem>
-  <problem jsem_id="695" answer="unknown" language="jp" phenomena="Verb, aspectual class" inference_type="entailment">
+  <problem jsem_id="695" answer="unknown" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
     <link resource="fracas" link_id="327" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -67,7 +67,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="696" answer="yes" language="jp" phenomena="Verb, aspectual class, adverb" inference_type="entailment">
+  <problem jsem_id="696" answer="yes" language="jp" phenomena="verb, aspectual class, adverb" inference_type="entailment">
     <link resource="fracas" link_id="328" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -87,7 +87,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="697" answer="unknown" language="jp" phenomena="Verb, aspectual class" inference_type="entailment">
+  <problem jsem_id="697" answer="unknown" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
     <link resource="fracas" link_id="329" translation="yes" same_phenomena="unknown">
     </link>
     <p idx="1">
@@ -107,7 +107,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="698" answer="yes" language="jp" phenomena="Verb, aspectual class" inference_type="entailment">
+  <problem jsem_id="698" answer="yes" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
     <link resource="fracas" link_id="330" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -127,7 +127,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="699" answer="yes" language="jp" phenomena="Verb, distributive predication" inference_type="entailment">
+  <problem jsem_id="699" answer="yes" language="jp" phenomena="verb, distributive predication" inference_type="entailment">
     <link resource="fracas" link_id="331" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -147,7 +147,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="700" answer="yes" language="jp" phenomena="Verb, distributive predication" inference_type="entailment">
+  <problem jsem_id="700" answer="yes" language="jp" phenomena="verb, distributive predication" inference_type="entailment">
     <link resource="fracas" link_id="332" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -167,7 +167,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="701" answer="yes" language="jp" phenomena="Verb, collective predication" inference_type="entailment">
+  <problem jsem_id="701" answer="yes" language="jp" phenomena="verb, collective predication" inference_type="entailment">
     <link resource="fracas" link_id="333" translation="yes" same_phenomena="yes">
     </link>
     <p idx="1">
@@ -187,7 +187,7 @@
      </english>
     </h>
   </problem>
-  <problem jsem_id="702" answer="yes" language="jp" phenomena="Verb, adverb" inference_type="entailment">
+  <problem jsem_id="702" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
     <p idx="1">
       <script>
       花子が学校までゆっくり歩いた。
@@ -199,7 +199,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="703" answer="yes" language="jp" phenomena="Verb, adverb" inference_type="entailment">
+  <problem jsem_id="703" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
     <p idx="1">
       <script>
       花子が学校までゆっくり歩いた。
@@ -211,7 +211,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="704" answer="yes" language="jp" phenomena="Verb, adverb" inference_type="entailment">
+  <problem jsem_id="704" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
     <p idx="1">
       <script>
       花子が学校までゆっくり歩いた。
@@ -223,7 +223,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="705" answer="yes" language="jp" phenomena="Verb, adverb" inference_type="entailment">
+  <problem jsem_id="705" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
     <p idx="1">
       <script>
       花子が学校までゆっくり歩いた。
@@ -235,7 +235,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="706" answer="yes" language="jp" phenomena="Verb, adverb" inference_type="entailment">
+  <problem jsem_id="706" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
     <p idx="1">
       <script>
       花子がゆっくり学校まで歩いた。
@@ -247,7 +247,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="707" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="707" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子を叱った。
@@ -259,7 +259,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="708" answer="unknown" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="708" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子を叱った。
@@ -271,7 +271,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="709" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="709" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子を叱った。
@@ -283,7 +283,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="710" answer="unknown" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="710" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子を叱った。
@@ -295,7 +295,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="711" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="711" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       花子が太郎に叱られた。
@@ -307,7 +307,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="712" answer="unknown" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="712" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       花子が太郎に叱られた。
@@ -319,7 +319,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="713" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="713" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       花子が自転車を盗まれた。
@@ -331,7 +331,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="714" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="714" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       誰かが花子の自転車を盗んだ。
@@ -343,7 +343,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="715" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="715" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が泥棒に財布を盗まれた。
@@ -355,7 +355,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="716" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="716" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       泥棒が太郎の財布を盗んだ。
@@ -367,7 +367,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="717" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="717" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎は次郎から花子を紹介された。
@@ -379,7 +379,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="718" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="718" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       次郎が花子を太郎に紹介した。
@@ -391,7 +391,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="719" answer="unknown" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="719" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎は次郎から花子を紹介された。
@@ -403,7 +403,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="720" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="720" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子に泣かれた。
@@ -416,7 +416,7 @@
     </h>
     <note>間接受身</note>
   </problem>
-  <problem jsem_id="721" answer="yes" language="jp" phenomena="Verb, passive" inference_type="entailment">
+  <problem jsem_id="721" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が雨に降られた。
@@ -429,7 +429,7 @@
     </h>
     <note>間接受身</note>
   </problem>
-  <problem jsem_id="722" answer="yes" language="jp" phenomena="Verb, causative" inference_type="entailment">
+  <problem jsem_id="722" answer="yes" language="jp" phenomena="verb, causative" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子に勉強をさせた。
@@ -441,7 +441,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="723" answer="yes" language="jp" phenomena="Verb, causative" inference_type="entailment">
+  <problem jsem_id="723" answer="yes" language="jp" phenomena="verb, causative" inference_type="entailment">
     <p idx="1">
       <script>
       監督は部員たちを走らせた。
@@ -453,7 +453,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="724" answer="yes" language="jp" phenomena="Verb, causative" inference_type="entailment">
+  <problem jsem_id="724" answer="yes" language="jp" phenomena="verb, causative" inference_type="entailment">
     <p idx="1">
       <script>
       太郎は子供たちに好きなように遊ばせた。
@@ -466,7 +466,7 @@
     </h>
     <note>「許容」の意味</note>
   </problem>
-  <problem jsem_id="725" answer="yes" language="jp" phenomena="Verb, benefactive" inference_type="entailment">
+  <problem jsem_id="725" answer="yes" language="jp" phenomena="verb, benefactive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が花子に荷物を運んでもらった。
@@ -478,7 +478,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="726" answer="yes" language="jp" phenomena="Verb, benefactive" inference_type="entailment">
+  <problem jsem_id="726" answer="yes" language="jp" phenomena="verb, benefactive" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が教室で花子に歌を歌ってもらった。
@@ -490,7 +490,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="727" answer="yes" language="jp" phenomena="Verb, ergative verb" inference_type="entailment">
+  <problem jsem_id="727" answer="yes" language="jp" phenomena="verb, ergative verb" inference_type="entailment">
     <p idx="1">
       <script>
       太郎が障子を破いた。
@@ -502,7 +502,7 @@
      </script>
     </h>
   </problem>
-  <problem jsem_id="728" answer="yes" language="jp" phenomena="Verb, ergative verb" inference_type="entailment">
+  <problem jsem_id="728" answer="yes" language="jp" phenomena="verb, ergative verb" inference_type="entailment">
     <p idx="1">
       <script>
       太郎がドアをゆっくり閉めた。

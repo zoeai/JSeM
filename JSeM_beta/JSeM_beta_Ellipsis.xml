@@ -5,7 +5,7 @@
   <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
   <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
   <comment> This Beta version contains textual inference tests involving ellipsis, which corresponds to Ellipsis section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
-  <problem jsem_id="450" answer="yes" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="450" answer="yes" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="142" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -34,7 +34,7 @@
     <note>comments in original FraCaS:Basic example.</note>
     <note>AK: Hankamer and Sag(1976)においては、英語のdo so anaphoraはsurface anaphoraと分析されているが、近年Houser(2010)によってdeep anaphoraであるとの主張がなされている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではunknownとした。</note>
   </problem>
-  <problem jsem_id="451" answer="unknown" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="451" answer="unknown" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="143" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -70,7 +70,7 @@
     </h>
     <note>AK: Hankamer and Sag(1976)においては、英語のdo so anaphoraはsurface anaphoraと分析されているが、近年Houser(2010)によってdeep anaphoraであるとの主張がなされている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではunknownとした。</note>
   </problem>
-  <problem jsem_id="452" answer="yes" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="452" answer="yes" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="144" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -98,7 +98,7 @@
     </h>
     <note>AK: Hankamer and Sag(1976)においては、英語のdo so anaphoraはsurface anaphoraと分析されているが、近年Houser(2010)によってdeep anaphoraであるとの主張がなされている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではunknownとした。</note>
   </problem>
-  <problem jsem_id="453" answer="yes" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="453" answer="yes" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="145" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -126,7 +126,7 @@
     </h>
     <note>AK: Hankamer and Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
   </problem>
-  <problem jsem_id="454" answer="yes" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="454" answer="yes" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="146" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -155,7 +155,7 @@
     <note>comments in original FraCaS:Tense agreement not necessary between ellipsis and antecedent.</note>
     <note>AK: P1では現在完了形の訳を反映していない。Hankamer and Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
   </problem>
-  <problem jsem_id="455" answer="no" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="455" answer="no" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="147" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -184,7 +184,7 @@
     <note>comments in original FraCaS:Polarity agreement not necessary between ellipsis and antecedent.</note>
     <note>AK: Hankamer and Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
   </problem>
-  <problem jsem_id="456" answer="yes" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="456" answer="yes" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="148" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -213,7 +213,7 @@
     <note>comments in original FraCaS:Mood agreement not necessary between ellipsis and antecedent.</note>
     <note>AK: 現在完了形の訳を反映していない。Hankamer and Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
   </problem>
-  <problem jsem_id="457" answer="yes" language="ja" phenomena="Ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="457" answer="yes" language="ja" phenomena="ellipsis, VP ellipsis, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="149" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -242,7 +242,7 @@
     <note>comments in original FraCaS:Number agreement not necesary.</note>
     <note>AK: 現在完了形の訳を厳密に反映していない。Hankamer and Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
   </problem>
-  <problem jsem_id="458" answer="yes" language="ja" phenomena="Ellipsis, gapping" inference_type="entailment">
+  <problem jsem_id="458" answer="yes" language="ja" phenomena="ellipsis, gapping" inference_type="entailment">
     <link resource="fracas" link_id="150" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -263,7 +263,7 @@
     <note>comments in original FraCaS:Basic example.</note>
     <note>AK: 上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe and Hoshi 1997）等）。</note>
   </problem>
-  <problem jsem_id="459" answer="yes" language="ja" phenomena="Ellipsis, gapping" inference_type="entailment">
+  <problem jsem_id="459" answer="yes" language="ja" phenomena="ellipsis, gapping" inference_type="entailment">
     <link resource="fracas" link_id="151" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -284,7 +284,7 @@
     <note>comments in original FraCaS:Another basic example</note>
     <note>AK: 上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe and Hoshi 1997）等）。</note>
   </problem>
-  <problem jsem_id="460" answer="yes" language="ja" phenomena="Ellipsis, gapping" inference_type="entailment">
+  <problem jsem_id="460" answer="yes" language="ja" phenomena="ellipsis, gapping" inference_type="entailment">
     <link resource="fracas" link_id="152" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -306,7 +306,7 @@
     <note>AK: 上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe and Hoshi 1997）等）。</note>
     <note>AK: 「ビルはベルリンに、ジョンは車でパリへ行った」のような語順では、ビルが車でベルリンに行ったかはunknownになるように思われる。</note>
   </problem>
-  <problem jsem_id="461" answer="yes" language="ja" phenomena="Ellipsis, gapping" inference_type="entailment">
+  <problem jsem_id="461" answer="yes" language="ja" phenomena="ellipsis, gapping" inference_type="entailment">
     <link resource="fracas" link_id="153" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -327,7 +327,7 @@
     <note>comments in original FraCaS:Subject-verb agreement not necessary</note>
     <note>AK: 上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe and Hoshi 1997）等）。</note>
   </problem>
-  <problem jsem_id="462" answer="yes" language="ja" phenomena="Ellipsis, gapping, stripping (with case marker)" inference_type="entailment">
+  <problem jsem_id="462" answer="yes" language="ja" phenomena="ellipsis, gapping, stripping (with case marker)" inference_type="entailment">
     <link resource="fracas" link_id="154" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -356,7 +356,7 @@
     <note>comments in original FraCaS:Cross-sentential gapping</note>
     <note>AK: Hoji(1990)のCM-Strippingの例</note>
   </problem>
-  <problem jsem_id="463" answer="yes" language="ja" phenomena="Ellipsis, no anaphora" inference_type="entailment">
+  <problem jsem_id="463" answer="yes" language="ja" phenomena="ellipsis, no anaphora" inference_type="entailment">
     <link resource="fracas" link_id="157" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -384,7 +384,7 @@
     </h>
     <note>AK: 上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
   </problem>
-  <problem jsem_id="464" answer="unknown" language="ja" phenomena="Ellipsis, no anaphora" inference_type="entailment">
+  <problem jsem_id="464" answer="unknown" language="ja" phenomena="ellipsis, no anaphora" inference_type="entailment">
     <link resource="fracas" link_id="158" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -412,7 +412,7 @@
     </h>
     <note>AK: 上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
   </problem>
-  <problem jsem_id="465" answer="yes" language="ja" phenomena="Ellipsis, no anaphora" inference_type="entailment">
+  <problem jsem_id="465" answer="yes" language="ja" phenomena="ellipsis, no anaphora" inference_type="entailment">
     <link resource="fracas" link_id="159" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -440,7 +440,7 @@
     </h>
     <note>AK: 上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
   </problem>
-  <problem jsem_id="466" answer="yes" language="ja" phenomena="Ellipsis, no anaphora" inference_type="entailment">
+  <problem jsem_id="466" answer="yes" language="ja" phenomena="ellipsis, no anaphora" inference_type="entailment">
     <link resource="fracas" link_id="160" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -469,7 +469,7 @@
     <note>comments in original FraCaS:The "one" anaphor may be resolved via the property of being a red car.</note>
     <note>AK: 可能な解釈の一つではyes。上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
   </problem>
-  <problem jsem_id="467" answer="unknown" language="ja" phenomena="Ellipsis, no anaphora" inference_type="entailment">
+  <problem jsem_id="467" answer="unknown" language="ja" phenomena="ellipsis, no anaphora" inference_type="entailment">
     <link resource="fracas" link_id="161" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -498,7 +498,7 @@
     <note>comments in original FraCaS:Or the "one" anaphor may just be resolved via the property of being a car.</note>
     <note>AK: 可能な解釈の一つではunknown。上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
   </problem>
-  <problem jsem_id="468" answer="unknown" language="ja" phenomena="Ellipsis, no anaphora" inference_type="entailment">
+  <problem jsem_id="468" answer="unknown" language="ja" phenomena="ellipsis, no anaphora" inference_type="entailment">
     <link resource="fracas" link_id="162" translation="yes" same_phenomena="no" />
     <p idx="1">
       <script>
@@ -527,7 +527,7 @@
     <note>comments in original FraCaS:When semantically parallel (e.g. fast/slow) modifiers appear on the antecedent and one-anaphor, it appears that all non-parallel modifiers must form part of the resolution.</note>
     <note>AK: 上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
   </problem>
-  <problem jsem_id="469" answer="no" language="ja" phenomena="Ellipsis, sluicing" inference_type="entailment">
+  <problem jsem_id="469" answer="no" language="ja" phenomena="ellipsis, sluicing" inference_type="entailment">
     <link resource="fracas" link_id="163" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -555,7 +555,7 @@
     </h>
     <note>AK: P1に関して、「ジョンは彼の論文が受理された」で「ジョン＝彼」の解釈が不自然なので、「彼の」を省略した。日本語のSluicingについてはFukaya and Hoji(1999), Fukaya(2003)要参照。</note>
   </problem>
-  <problem jsem_id="470" answer="yes" language="ja" phenomena="Ellipsis, phrasal ellipsis, stripping (with case marker)" inference_type="entailment">
+  <problem jsem_id="470" answer="yes" language="ja" phenomena="ellipsis, phrasal ellipsis, stripping (with case marker)" inference_type="entailment">
     <link resource="fracas" link_id="164" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -583,7 +583,7 @@
     </h>
     <note>AK: Hoji(1990)のCM-Strippingの例としたが、P2は不自然？</note>
   </problem>
-  <problem jsem_id="471" answer="yes" language="ja" phenomena="Ellipsis, phrasal ellipsis, stripping (with case marker)" inference_type="entailment">
+  <problem jsem_id="471" answer="yes" language="ja" phenomena="ellipsis, phrasal ellipsis, stripping (with case marker)" inference_type="entailment">
     <link resource="fracas" link_id="166" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -612,7 +612,7 @@
     <note>comments in original FraCaS: PP ellipsis: replaces PP in antecedent </note>
     <note>AK: Hoji(1990)のCM-Strippingの例としたが、P2はやや不自然。</note>
   </problem>
-  <problem jsem_id="472" answer="yes" language="ja" phenomena="Ellipsis, phrasal ellipsis" inference_type="entailment">
+  <problem jsem_id="472" answer="yes" language="ja" phenomena="ellipsis, phrasal ellipsis" inference_type="entailment">
     <link resource="fracas" link_id="169" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -633,7 +633,7 @@
     <note>AK: ある解釈ではyes。</note>
     <note>comments in original FraCaS: NP ellipsis </note>
   </problem>
-  <problem jsem_id="473" answer="yes" language="ja" phenomena="Ellipsis, phrasal ellipsis" inference_type="entailment">
+  <problem jsem_id="473" answer="yes" language="ja" phenomena="ellipsis, phrasal ellipsis" inference_type="entailment">
     <link resource="fracas" link_id="170" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -654,7 +654,7 @@
     <note>comments in original FraCaS: NP ellipsis </note>
     <note>AK: ある解釈ではyes。</note>
   </problem>
-  <problem jsem_id="474" answer="yes" language="ja" phenomena="Ellipsis, phrasal ellipsis" inference_type="entailment">
+  <problem jsem_id="474" answer="yes" language="ja" phenomena="ellipsis, phrasal ellipsis" inference_type="entailment">
     <link resource="fracas" link_id="172" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -674,7 +674,7 @@
     </h>
     <note>comments in original FraCaS: Determiner ellipsis </note>
   </problem>
-  <problem jsem_id="475" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive), sloppy identity" inference_type="entailment">
+  <problem jsem_id="475" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="182" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -695,7 +695,7 @@
     <note>comments in original FraCaS: Sloppy identity </note>
     <note>AK: sloppy readingではyes。</note>
   </problem>
-  <problem jsem_id="476" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
+  <problem jsem_id="476" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="182" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -716,7 +716,7 @@
     <note>comments in original FraCaS: Sloppy identity </note>
     <note>AK: sloppy readingではyes。</note>
   </problem>
-  <problem jsem_id="477" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, zibun (reflexive), sloppy identity" inference_type="entailment">
+  <problem jsem_id="477" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, zibun (reflexive), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="182" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -737,7 +737,7 @@
     <note>comments in original FraCaS: Sloppy identity </note>
     <note>AK: sloppy readingではyes。</note>
   </problem>
-  <problem jsem_id="478" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
+  <problem jsem_id="478" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="182" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -758,7 +758,7 @@
     <note>comments in original FraCaS: Sloppy identity </note>
     <note>AK: sloppy readingではyes。</note>
   </problem>
-  <problem jsem_id="479" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive), strict identity" inference_type="entailment">
+  <problem jsem_id="479" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive), strict identity" inference_type="entailment">
     <link resource="fracas" link_id="183" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -779,7 +779,7 @@
     <note>comments in original FraCaS: Strict identity </note>
     <note>AK: strict readingではyes</note>
   </problem>
-  <problem jsem_id="480" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity" inference_type="entailment">
+  <problem jsem_id="480" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity" inference_type="entailment">
     <link resource="fracas" link_id="183" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -800,7 +800,7 @@
     <note>comments in original FraCaS: Strict identity </note>
     <note>AK: strict readingではyes</note>
   </problem>
-  <problem jsem_id="481" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, zibun (reflexive), strict identity" inference_type="entailment">
+  <problem jsem_id="481" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, zibun (reflexive), strict identity" inference_type="entailment">
     <link resource="fracas" link_id="183" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -821,7 +821,7 @@
     <note>comments in original FraCaS: Strict identity </note>
     <note>AK: strict readingではyes</note>
   </problem>
-  <problem jsem_id="482" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, strict identity" inference_type="entailment">
+  <problem jsem_id="482" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, strict identity" inference_type="entailment">
     <link resource="fracas" link_id="183" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -842,7 +842,7 @@
     <note>comments in original FraCaS: Strict identity </note>
     <note>AK: strict readingではyes</note>
   </problem>
-  <problem jsem_id="483" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive)" inference_type="entailment">
+  <problem jsem_id="483" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive)" inference_type="entailment">
     <link resource="fracas" link_id="184" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -861,7 +861,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="484" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun)" inference_type="entailment">
+  <problem jsem_id="484" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun)" inference_type="entailment">
     <link resource="fracas" link_id="184" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -880,7 +880,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="485" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, zibun (reflexive)" inference_type="entailment">
+  <problem jsem_id="485" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, zibun (reflexive)" inference_type="entailment">
     <link resource="fracas" link_id="184" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -899,7 +899,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="486" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun)" inference_type="entailment">
+  <problem jsem_id="486" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun)" inference_type="entailment">
     <link resource="fracas" link_id="184" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -918,7 +918,7 @@
     </english>
     </h>
   </problem>
-  <problem jsem_id="487" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
+  <problem jsem_id="487" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="185" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -938,7 +938,7 @@
     <note>comments in original FraCaS: Sloppy identity on both pronouns </note>
     <note>AK: P1の二つの「彼」をsloppy readingで解釈すればyes</note>
   </problem>
-  <problem jsem_id="488" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
+  <problem jsem_id="488" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="185" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -952,7 +952,7 @@
     <note>comments in original FraCaS: Sloppy identity on both pronouns </note>
     <note>AK: Hoji(1997)のCM-strippingの例。P1の二つの「彼」をsloppy readingで解釈すればyes</note>
   </problem>
-  <problem jsem_id="489" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), mix reading" inference_type="entailment">
+  <problem jsem_id="489" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), mix reading" inference_type="entailment">
     <link resource="fracas" link_id="186" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -972,7 +972,7 @@
     <note>comments in original FraCaS: Sloppy identity "he", strict on "his" </note>
     <note>AK: P1の最初の「彼」をsloppyに、二つ目の「彼」をstrictに解釈することが意図されている（Mix reading）が、Hoji(2003)によれば、soo su構文では不可能。</note>
   </problem>
-  <problem jsem_id="490" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), mix reading" inference_type="entailment">
+  <problem jsem_id="490" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), mix reading" inference_type="entailment">
     <link resource="fracas" link_id="186" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -985,7 +985,7 @@
     </h>
     <note>AK: Hoji(1997)のCM-strippingの例。P1の最初の「彼」をsloppyに、二つ目の「彼」をstrictに解釈すればyes（Mix reading 1）。</note>
   </problem>
-  <problem jsem_id="491" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity" inference_type="entailment">
+  <problem jsem_id="491" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity" inference_type="entailment">
     <link resource="fracas" link_id="187" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1005,7 +1005,7 @@
     <note>comments in original FraCaS: Strict identity on both pronouns </note>
     <note>AK: P1の二つの「彼」をstrictに解釈すればyes</note>
   </problem>
-  <problem jsem_id="492" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), strict identity" inference_type="entailment">
+  <problem jsem_id="492" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), strict identity" inference_type="entailment">
     <link resource="fracas" link_id="187" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1018,7 +1018,7 @@
     </h>
     <note>AK: Hoji(1997)のCM-strippingの例。P1の二つの「彼」をstrictに解釈すればyes</note>
   </problem>
-  <problem jsem_id="493" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun)" inference_type="entailment">
+  <problem jsem_id="493" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun)" inference_type="entailment">
     <link resource="fracas" link_id="188" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1038,7 +1038,7 @@
     <note>comments in original FraCaS: Can't have strict identity on "he" and sloppy identity on "his" </note>
     <note>AK: P1の最初の「彼」をstrictに、二つ目の「彼」をsloppyに解釈することが意図されている（Mix reading）が、Hoji(2003)によれば、soo su構文では不可能。</note>
   </problem>
-  <problem jsem_id="494" answer="unknown" language="ja" phenomena="Ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun)" inference_type="entailment">
+  <problem jsem_id="494" answer="unknown" language="ja" phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun)" inference_type="entailment">
     <link resource="fracas" link_id="188" translation="no" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1051,7 +1051,7 @@
     </h>
     <note>AK: Hoji(1997)のCM-strippingの例。P1の最初の「彼」をstrictに、二つ目の「彼」をsloppyに解釈することが意図されているが（Mix reading 2）、実際は不可能。</note>
   </problem>
-  <problem jsem_id="495" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
+  <problem jsem_id="495" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity" inference_type="entailment">
     <link resource="fracas" link_id="189" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1080,7 +1080,7 @@
     <note>comments in original FraCaS: Sloppy identity, gender agreement not necessary </note>
     <note>AK: Sloppy readingではyes</note>
   </problem>
-  <problem jsem_id="496" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity" inference_type="entailment">
+  <problem jsem_id="496" answer="yes" language="ja" phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity" inference_type="entailment">
     <link resource="fracas" link_id="190" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
@@ -1109,7 +1109,7 @@
     <note>comments in original FraCaS: Strict identity, gender agreement not necessary </note>
     <note>AK: Strict readingではyes</note>
   </problem>
-  <problem jsem_id="497" answer="yes" language="ja" phenomena="Ellipsis, ellipsis and quantification, soo su anaphora" inference_type="entailment">
+  <problem jsem_id="497" answer="yes" language="ja" phenomena="ellipsis, ellipsis and quantification, soo su anaphora" inference_type="entailment">
     <link resource="fracas" link_id="196" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>

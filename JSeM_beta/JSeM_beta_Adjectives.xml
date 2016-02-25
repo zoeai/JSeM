@@ -424,7 +424,7 @@ Comment in fracas: Small(N) entails !Large(N)
   <problem jsem_id="523" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
-      窓は開いている。
+      あの窓は開いている。
      </script>
       <english>
       The window is open.
@@ -432,7 +432,7 @@ Comment in fracas: Small(N) entails !Large(N)
     </p>
     <h>
       <script>
-      窓は閉まっている。
+      あの窓は閉まっている。
      </script>
       <english>
       The window is closed.
@@ -445,7 +445,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
   <problem jsem_id="524" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
-      窓は閉まっている。
+      あの窓は閉まっている。
      </script>
       <english>
       The window is closed.
@@ -453,7 +453,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
     </p>
     <h>
       <script>
-      窓は開いている。
+      あの窓は開いている。
      </script>
       <english>
       The window is open.
@@ -466,7 +466,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
   <problem jsem_id="525" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
-      窓は開いていない。
+      あの窓は開いていない。
      </script>
       <english>
       The window is not open.
@@ -474,7 +474,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
     </p>
     <h>
       <script>
-      窓は閉まっている。
+      あの窓は閉まっている。
      </script>
       <english>
       The window is closed.
@@ -487,7 +487,7 @@ not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Win
   <problem jsem_id="526" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
     <p idx="1">
       <script>
-      窓は閉まっていない。
+      あの窓は閉まっていない。
      </script>
       <english>
       The window is not closed.
@@ -495,7 +495,7 @@ not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Win
     </p>
     <h>
       <script>
-      窓は開いている。
+      あの窓は開いている。
      </script>
       <english>
       The window is open.
@@ -1205,12 +1205,12 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
   <problem jsem_id="565" answer="yes" language="jp" phenomena="adjective, degree modifier, partial predicate" inference_type="entailment">
     <p idx="1">
       <script>
-      ドアが半分開いている。
+      あのドアは半分開いている。
      </script>
     </p>
     <h>
       <script>
-      ドアが開いている。
+      あのドアは開いている。
      </script>
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
@@ -1218,12 +1218,12 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
   <problem jsem_id="566" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
-      ドアが半分閉まっている。
+      あのドアは半分閉まっている。
      </script>
     </p>
     <h>
       <script>
-      ドアが閉まっている。
+      あのドアは閉まっている。
      </script>
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
@@ -1231,12 +1231,12 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
   <problem jsem_id="567" answer="yes" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
-      ドアが少し開いている。
+      あのドアは少し開いている。
      </script>
     </p>
     <h>
       <script>
-      ドアが開いている。
+      あのドアは開いている。
      </script>
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
@@ -1244,12 +1244,12 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
   <problem jsem_id="568" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
       <script>
-      ドアがほぼ閉まっている。
+      あのドアはほぼ閉まっている。
      </script>
     </p>
     <h>
       <script>
-      ドアが閉まっている。
+      あのドアは閉まっている。
      </script>
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>

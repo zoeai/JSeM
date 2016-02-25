@@ -274,12 +274,12 @@
   <problem jsem_id="709" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
-      太郎が花子を叱った。
+      山田先生が青木さんを叱った。
      </script>
     </p>
     <h>
       <script>
-      花子が太郎に叱られた。
+      青木さんが山田先生に叱られた。
      </script>
     </h>
   </problem>
@@ -298,12 +298,12 @@
   <problem jsem_id="711" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
     <p idx="1">
       <script>
-      花子が太郎に叱られた。
+      青木さんが山田先生に叱られた。
      </script>
     </p>
     <h>
       <script>
-      太郎が花子を叱った。
+      山田先生が青木さんを叱った。
      </script>
     </h>
   </problem>

@@ -468,7 +468,7 @@
     inference_type="entailment">
   <p idx="1">
     <script>
-      太郎は7時の電車に乗り損なった。
+      太郎は7時の電車に乗り損ねた。
     </script>
   </p>
   <h>
@@ -486,12 +486,12 @@
     inference_type="entailment">
   <p idx="1">
     <script>
-      太郎は7時の電車に乗り損なわなかった。
+      太郎は今日は7時の電車に乗り損ねなかった。
     </script>
   </p>
   <h>
     <script>
-      太郎は7時の電車に乗った。
+      太郎は今日は7時の電車に乗った。
     </script>
   </h>
   <note>fail toの和訳。</note>

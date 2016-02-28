@@ -439,7 +439,7 @@ Comment in fracas: Small(N) entails !Large(N)
      </english>
     </h>
     <note> 
-Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
+PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
   <problem jsem_id="524" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
@@ -460,7 +460,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
      </english>
     </h>
     <note> 
-Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
+PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
   <problem jsem_id="525" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
@@ -481,7 +481,7 @@ Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
      </english>
     </h>
     <note> 
-not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
+PとHの「あの窓」は同一の個体を指示する。not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
   <problem jsem_id="526" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
@@ -502,7 +502,7 @@ not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Win
      </english>
     </h>
     <note> 
-not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
+PとHの「あの窓」は同一の個体を指示する。not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
 </note>
   </problem>
   <problem jsem_id="527" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
@@ -1213,7 +1213,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
       あのドアは開いている。
      </script>
     </h>
-    <note>Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
   <problem jsem_id="566" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
@@ -1226,7 +1226,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
       あのドアは閉まっている。
      </script>
     </h>
-    <note>Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
   <problem jsem_id="567" answer="yes" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
@@ -1239,7 +1239,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
       あのドアは開いている。
      </script>
     </h>
-    <note>Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
   <problem jsem_id="568" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
     <p idx="1">
@@ -1252,7 +1252,7 @@ not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Win
       あのドアは閉まっている。
      </script>
     </h>
-    <note>Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
   <!--
 [Bibliography]

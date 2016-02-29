@@ -8303,19 +8303,6 @@
     </h>
     <note>AK: The translations of P and H, with the canonical word order, sounds unnatural. I used cleft construction to make the sentences more natural.</note>
   </problem>
-  <problem jsem_id="369" answer="yes" language="ja" phenomena="generalized quantifier, monotonicity (downwards on first argument), cleft" inference_type="entailment">
-    <link resource="fracas" link_id="080" translation="no" same_phenomena="no" />
-    <p idx="1">
-      <script>
-	CDを買うファンは最大でも100人だ。
-  	</script>
-    </p>
-    <h>
-      <script>
-        発売初日にCDを買うファンは最大でも100人だ。
-	</script>
-    </h>
-  </problem>
   <problem jsem_id="789" answer="yes" language="ja" phenomena="generalized quantifier, monotonicity (upwards on second argument)" inference_type="entailment">
     <link resource="fracas" link_id="032" translation="no" same_phenomena="unknown" />
     <p idx="1">

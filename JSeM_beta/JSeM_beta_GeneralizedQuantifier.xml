@@ -124,7 +124,7 @@
     </h>
     <note>AK: P1 sounds slightly unnatural. P1がやや不自然</note>
   </problem>
-  <problem jsem_id="7" answer="yes" language="ja" phenomena="generalized quantifier,conservativity, N-no QC" inference_type="entailment">
+  <problem jsem_id="7" answer="yes" language="ja" phenomena="generalized quantifier, conservativity, N-no QC" inference_type="entailment">
     <link resource="fracas" link_id="001" translation="yes" same_phenomena="unknown" />
     <p idx="1">
       <script>
